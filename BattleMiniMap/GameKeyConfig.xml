@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameKeyConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category>
+    <CategoryId>BattleMiniMapHotKey</CategoryId>
+    <GameKeySequences>
+      <SerializedGameKeySequence>
+        <StringId>ToggleMap</StringId>
+        <KeyboardKeys>
+          <InputKey>M</InputKey>
+        </KeyboardKeys>
+      </SerializedGameKeySequence>
+      <SerializedGameKeySequence>
+        <StringId>ToggleMapLongPress</StringId>
+        <KeyboardKeys>
+          <InputKey>LeftAlt</InputKey>
+        </KeyboardKeys>
+      </SerializedGameKeySequence>
+    </GameKeySequences>
+  </Category>
+  <ConfigVersion>1.0</ConfigVersion>
+</GameKeyConfig>

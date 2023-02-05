@@ -1,0 +1,23 @@
+{
+  "MCM_DisableDefaultPregnancyMethod": true,
+  "MCM_NPCAbortionDecline": true,
+  "MCM_NPCSelfAbortionAllow": true,
+  "MCM_BattleAbortion": true,
+  "MCM_PregnancyChance": 0.0493827164,
+  "MCM_MinPregnancyDelay": 1,
+  "MCM_MaxPregnancyDelay": 3,
+  "MCM_LesbianPregnancy": false,
+  "MCM_LesbianPregnancyOnDrop": 2,
+  "MCM_AllPregnanciesLogNotification": true,
+  "MCM_BlackScreenEffect": true,
+  "MCM_SoundSetOnDrop": 0,
+  "MCM_SameGenderInteractions": false,
+  "MCM_IncestInteractions": false,
+  "MCM_PregnancyTimeInteractions": false,
+  "MCM_InteractionLimit": 10,
+  "MCM_RelationSpouse": 0,
+  "MCM_RelationSingle": 0,
+  "MCM_RelationMarried": 0,
+  "MCM_MinDaysToPass": 1,
+  "MCM_MaxDaysToPass": 3
+}

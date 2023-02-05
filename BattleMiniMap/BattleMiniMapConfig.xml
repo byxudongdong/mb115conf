@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleMiniMapConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ConfigVersion>1.1</ConfigVersion>
+  <ShowMap>true</ShowMap>
+  <EnableToggleMapLongPressKey>true</EnableToggleMapLongPressKey>
+  <ToggleMapWhenCommanding>true</ToggleMapWhenCommanding>
+  <WidgetWidth>303</WidgetWidth>
+  <FollowMode>true</FollowMode>
+  <FollowModeScale>0.6012346</FollowModeScale>
+  <EnableDynamicScale>true</EnableDynamicScale>
+  <HorizontalAlignment>Left</HorizontalAlignment>
+  <VerticalAlignment>Top</VerticalAlignment>
+  <PositionX>10</PositionX>
+  <PositionY>10</PositionY>
+  <Resolution>1</Resolution>
+  <AgentMarkerScale>1</AgentMarkerScale>
+  <EdgeOpacityFactor>1</EdgeOpacityFactor>
+  <BackgroundOpacity>1</BackgroundOpacity>
+  <ForegroundOpacity>1</ForegroundOpacity>
+  <ExcludeUnwalkableTerrain>true</ExcludeUnwalkableTerrain>
+</BattleMiniMapConfig>

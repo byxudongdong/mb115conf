@@ -1,0 +1,11 @@
+﻿TemplateCharacter=Default
+SexualOrientation=Heterosexual
+FactionLeader=Default
+Polygamy=False
+Polyamory=False
+PregnancyPlus=False
+Incest=False
+Cheating=False
+SkipCourtship=False
+RetryCourtship=False
+Debug=False

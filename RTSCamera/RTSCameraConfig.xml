@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RTSCameraConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UseFreeCameraByDefault>false</UseFreeCameraByDefault>
+  <RaisedHeight>15</RaisedHeight>
+  <PlayerControllerInFreeCamera>1</PlayerControllerInFreeCamera>
+  <PlayerFormation>1</PlayerFormation>
+  <AlwaysSetPlayerFormation>false</AlwaysSetPlayerFormation>
+  <AutoSetPlayerFormation>Always</AutoSetPlayerFormation>
+  <ConstantSpeed>false</ConstantSpeed>
+  <CameraHeightFollowsTerrain>false</CameraHeightFollowsTerrain>
+  <IgnoreTerrain>false</IgnoreTerrain>
+  <IgnoreBoundaries>false</IgnoreBoundaries>
+  <SlowMotionMode>false</SlowMotionMode>
+  <SlowMotionFactor>0.496296048</SlowMotionFactor>
+  <DisplayMessage>true</DisplayMessage>
+  <ControlAllyAfterDeath>true</ControlAllyAfterDeath>
+  <PreferToControlCompanions>false</PreferToControlCompanions>
+  <PreferUnitsInSameFormation>true</PreferUnitsInSameFormation>
+  <ControlTroopsInPlayerPartyOnly>true</ControlTroopsInPlayerPartyOnly>
+  <IgnoreRetreatingTroops>true</IgnoreRetreatingTroops>
+  <DisableDeathHotkeyEnabled>false</DisableDeathHotkeyEnabled>
+  <SwitchTeamHotkeyEnabled>false</SwitchTeamHotkeyEnabled>
+  <LimitCameraDistance>true</LimitCameraDistance>
+  <CameraDistanceLimitFactor>1</CameraDistanceLimitFactor>
+  <OrderUIClickable>true</OrderUIClickable>
+  <FixCompanionFormation>true</FixCompanionFormation>
+  <ConfigVersion>1.7</ConfigVersion>
+</RTSCameraConfig>

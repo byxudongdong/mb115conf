@@ -1,0 +1,19 @@
+{
+  "playerHealing": 5,
+  "friendlyAIHeroHealing": 10,
+  "enemyAIHeroHealing": 20,
+  "friendlyAITroopHealing": 5,
+  "enemyAITroopHealing": 5,
+  "playerLifeLeechPercent": 0.02,
+  "friendlyAIHeroLifeLeechPercent": 0.05,
+  "enemyAIHeroLifeLeechPercent": 0.1,
+  "friendlyAITroopLifeLeechPercent": 0.1,
+  "enemyAITroopLifeLeechPercent": 0.1,
+  "healHorsesToo": true,
+  "allowRangedHealing": true,
+  "logPlayerHealingToChat": true,
+  "logHeroHealingToChat": true,
+  "logTroopHealingToChat": false,
+  "enableMedicineSkillGain": true,
+  "debugMessages": false
+}

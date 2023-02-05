@@ -1,0 +1,22 @@
+{
+  "CaravanBudget": 1500,
+  "CaravanPrice": 50,
+  "WorkforceLowWage": 0.6,
+  "WorkforceLowEfficinecy": 0.75,
+  "WorkforceHighWage": 2.0,
+  "WorkforceHighEfficinecy": 1.5,
+  "WorkforceMaxWage": 3.0,
+  "WorkforceMaxEfficinecy": 1.8,
+  "WarehouseMinRent": 10,
+  "WarehouseMaxRent": 50,
+  "WarehouseWeightThreshold": 2000,
+  "ExtraStartingCount": 0,
+  "ExtraCountPerTier": 0,
+  "ProductionMultiplier": 1.0,
+  "WageMultiplier": 1.0,
+  "PriceMultiplier": 1.0,
+  "NonTradeIgnore": true,
+  "ProfitTradeXPMult": 0.0,
+  "WorkshopMinCapital": 3000,
+  "PreventWarLose": false
+}

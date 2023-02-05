@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <allow_limit>false</allow_limit>
+  <limit_value>10000</limit_value>
+  <allow_troops>true</allow_troops>
+  <loot_troops_percent>0.5</loot_troops_percent>
+  <allow_gold>true</allow_gold>
+  <gold_ai_leader_loss>0.05</gold_ai_leader_loss>
+  <gold_ai_no_leader_loss>0.1</gold_ai_no_leader_loss>
+  <gold_bandits_loss>0.5</gold_bandits_loss>
+  <gold_maximum>30000</gold_maximum>
+  <loot_percent>0.75</loot_percent>
+  <loot_heroes>false</loot_heroes>
+  <loot_allies>false</loot_allies>
+  <loot_own_troops>false</loot_own_troops>
+  <allow_effects>true</allow_effects>
+  <companions_morale_change>1</companions_morale_change>
+  <troops_morale_change>1</troops_morale_change>
+  <honor_change>1</honor_change>
+  <allow_companions>true</allow_companions>
+  <loot_companions_percent>0.1</loot_companions_percent>
+</Settings>

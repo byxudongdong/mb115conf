@@ -1,0 +1,9 @@
+{
+  "LordBribeCooldownDays": 10,
+  "SettlementBribeCooldownDays": 10,
+  "BribeChanceMultiplier": 1.0,
+  "SurrenderChanceMultiplier": 1.0,
+  "NutritionBonusMultiplier": 1.0,
+  "StarvationPenaltyMultiplier": 1.0,
+  "BribeAmountMultiplier": 1.0
+}

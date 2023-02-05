@@ -1,0 +1,15 @@
+{
+  "showError": false,
+  "showWarn": false,
+  "showLog": false,
+  "polearmBonusPct": 0.3,
+  "rangedBonusPct": 0.2,
+  "twoHandedBonusPct": 0.2,
+  "defModifierPct": 0.15,
+  "shieldEnabled": true,
+  "shieldMultiplierPct": 0.1,
+  "aiEnabled": true,
+  "damageModifier": 3.0,
+  "armorEnabled": true,
+  "weaponEnabled": true
+}

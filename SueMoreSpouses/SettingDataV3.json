@@ -1,0 +1,23 @@
+﻿{
+  "EXSpouseGetPregnancySetting": {
+    "ExspouseGetPregnancyDailyChance": 0.0,
+    "ExspouseGetPregnancyDurationInDays": 30,
+    "Enable": true
+  },
+  "ChildrenFastGrowthSetting": {
+    "ChildrenFastGrowthCycleInDays": 36,
+    "ChildrenFastGrowtStopGrowUpAge": 18.0,
+    "ChildrenFastGrowUpScope": {
+      "Value": 0,
+      "Name": "{=hero_scope_player_related}Player rerelated"
+    },
+    "ChildrenNamePrefix": "华夏.",
+    "ChildrenNameSuffix": null,
+    "Enable": true
+  },
+  "NamelessNPCSetting": {
+    "NPCCharaObjectSkillAuto": false,
+    "NPCCharaObjectFromTier": 4,
+    "Enable": true
+  }
+}
