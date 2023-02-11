@@ -110,7 +110,7 @@
       </UserModData>
       <UserModData>
         <Id>ServeAsSoldier</Id>
-        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -175,7 +175,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.Diplomacy</Id>
-        <LastKnownVersion>v1.2.3.0</LastKnownVersion>
+        <LastKnownVersion>v1.2.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -377,6 +377,41 @@
         <Id>ArenaOverhaul</Id>
         <LastKnownVersion>v1.3.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AgeSettings</Id>
+        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bodyguards</Id>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Telepathy</Id>
+        <LastKnownVersion>v1.0.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>kult_of_the_kallipygos_2</Id>
+        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>New Female Armor for GT_CarbonBody</Id>
+        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>LivingParents</Id>
+        <LastKnownVersion>v1.8.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>playerclan</Id>
+        <LastKnownVersion>v1.8.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>xdd</Id>

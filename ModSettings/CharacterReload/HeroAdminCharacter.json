@@ -1,5 +1,2229 @@
 [
   {
+    "SaveName": "88888",
+    "Level": 57,
+    "SP": 29061401,
+    "IsFemale": false,
+    "BodyPropertiesString": "<BodyProperties version=\"4\" age=\"22\" weight=\"0.35\" build=\"0.375\"  key=\"001BB80D0000300D7C7664876753888A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002\"  />",
+    "Race": 0,
+    "Attributes": [
+      {
+        "AttributeName": "vigor",
+        "AttributeValue": 38
+      },
+      {
+        "AttributeName": "control",
+        "AttributeValue": 38
+      },
+      {
+        "AttributeName": "endurance",
+        "AttributeValue": 60
+      },
+      {
+        "AttributeName": "cunning",
+        "AttributeValue": 28
+      },
+      {
+        "AttributeName": "social",
+        "AttributeValue": 45
+      },
+      {
+        "AttributeName": "intelligence",
+        "AttributeValue": 42
+      }
+    ],
+    "Skills": [
+      {
+        "StringId": "OneHanded",
+        "SkillValue": 721,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "TwoHanded",
+        "SkillValue": 532,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Polearm",
+        "SkillValue": 708,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Bow",
+        "SkillValue": 680,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Crossbow",
+        "SkillValue": 631,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Throwing",
+        "SkillValue": 719,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Riding",
+        "SkillValue": 1002,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Athletics",
+        "SkillValue": 1023,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Crafting",
+        "SkillValue": 738,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Scouting",
+        "SkillValue": 558,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Tactics",
+        "SkillValue": 555,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Roguery",
+        "SkillValue": 421,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Charm",
+        "SkillValue": 813,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Leadership",
+        "SkillValue": 788,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Trade",
+        "SkillValue": 587,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Steward",
+        "SkillValue": 640,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Medicine",
+        "SkillValue": 671,
+        "SkillFocus": 5
+      },
+      {
+        "StringId": "Engineering",
+        "SkillValue": 389,
+        "SkillFocus": 5
+      }
+    ],
+    "Perks": [
+      {
+        "StringId": "OneHandedBasher",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedToBeBlunt",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedShieldBearer",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedDuelist",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedArrowCatcher",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedCorpsACorps",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedLeadByExample",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedFleetOfFoot",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedDeadlyPurpose",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedPrestige",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedWayOfTheSword",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedStrongGrip",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedHeadBasher",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedShowOfStrength",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedShieldBreaker",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedBerserker",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedArrowDeflection",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedHope",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedRecklessCharge",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedBladeMaster",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedWayOfTheGreatAxe",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmCavalry",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmBraced",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmSwiftSwing",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmFootwork",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmLancer",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmSkewer",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmStandardBearer",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmGenerousRations",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmUnstoppableForce",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmCounterweight",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmWayOfTheSpear",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "BowDeadAim",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowBodkin",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowRapidFire",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowMountedArchery",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowStrongBows",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowHunterClan",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowEagleEye",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowBullsEye",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowHorseMaster",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowQuickDraw",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowDeadshot",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowMarksmen",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowWindWinder",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowSheriff",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowRenownMarksmen",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowPuncture",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowLooseAndMove",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowMountedCrossbowman",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowSniper",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowHammerBolts",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowBoltenGuard",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowMightyPull",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingQuickDraw",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingHunter",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingMountedSkirmisher",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingKnockOff",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingFocus",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingHeadHunter",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingSaddlebags",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingResourceful",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingLongReach",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingImpale",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingUnstoppableForce",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingFullSpeed",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingWellStraped",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingNomadicTraditions",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingSagittarius",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingReliefForce",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingMountedWarrior",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingHorde",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingAnnoyingBuzz",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingMountedPatrols",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingDauntlessSteed",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingTheWayOfTheSaddle",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsMorningExercise",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsFormFittingArmor",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsStamina",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsPowerful",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsBraced",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsWalkItOff",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsEnergetic",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsStrong",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsStrongLegs",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsSpartan",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsMightyBlow",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "CraftingSharpenedEdge",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "IronYield",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "CuriousSmelter",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "CuriousSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "PracticalSmelter",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "PracticalSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "ExperiencedSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "MasterSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "LegendarySmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "StrongSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "WeaponMasterSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsTightFormations",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsProperEngagement",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsHordeLeader",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsCoaching",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsSwiftRegroup",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsCallToArms",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsMakeThemPay",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsEliteReserves",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsBesieged",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsCounteroffensive",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsTacticalMastery",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingNightRunner",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingPathfinder",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingDesertBorn",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingForcedMarch",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingTracker",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingMountedScouts",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingForagers",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingVillageNetwork",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingKeenSight",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingVanguard",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingUncannyInsight",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "RoguerySweetTalker",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryDeepPockets",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryInBestLight",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RoguerySlaveTrader",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryWhiteLies",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryPartnersInCrime",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RoguerySaltTheEarth",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryRansomBroker",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryDirtyFighting",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryFleetFooted",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryRogueExtraordinaire",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipCombatTips",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipStoutDefender",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipAuthority",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipFamousCommander",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipLeaderOfMasses",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipVeteransRespect",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipInspiringLeader",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipLeadByExample",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipTrustedCommander",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipWePledgeOurSwords",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipUltimateLeader",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmSelfPromoter",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmWarlord",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmForgivableGrievances",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmInBloom",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmFirebrand",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmSlickNegotiator",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmGoodNatured",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmNaturalLeader",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmParade",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmCamaraderie",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmImmortalCharm",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeAppraiser",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeMarketDealer",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeLocalConnection",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeDistributedGoods",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeArtisanCommunity",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeMercenaryConnections",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeRapidDevelopment",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeTradeyardForeman",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeSwordForBarter",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeSpringOfGold",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeTrickleDown",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeEverythingHasAPrice",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardFrugal",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardDrillSergant",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardSweatshops",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardPaidInPromise",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardForeseeableFuture",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardRelocation",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardSoundReserves",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardContractors",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardArenicosHorses",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardMasterOfPlanning",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardPriceOfLoyalty",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineSelfMedication",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineWalkItOff",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineDoctorsOath",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineBestMedicine",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineSiegeMedic",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicinePristineStreets",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineHealthAdvise",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicinePhysicianOfPeople",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineCheatDeath",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineBattleHardened",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineMinisterOfHealth",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringScaffolds",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringPrisonArchitect",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringCarpenters",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringWallBreaker",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringForeman",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringSiegeEngineer",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringCampBuilding",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringEngineeringGuilds",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringImprovedTools",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringArchitecturalCommissions",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringMasterwork",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingNimbleStead",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingVeterinary",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingFilledToBrim",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingSweepingWind",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicinePreventiveMedicine",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineTriageTent",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineSledges",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineGoodLodging",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineVeterinarian",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedCavalry",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedTrainer",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedUnwaveringDefense",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedOnTheEdge",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedBaptisedInBlood",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedBeastSlayer",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedTerror",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmKeepAtBay",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmGuards",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmDrills",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmSureFooted",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "BowMerryMen",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowDiscipline",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowPeasantLeader",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingShieldBreaker",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingFlexibleFighter",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingSkirmisher",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsHavingGoing",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsAGoodDaysRest",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsLooseFormations",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipRaiseTheMeek",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipHeroicLeader",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipLoyaltyAndHonor",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmOratory",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeWholeSeller",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardSpartan",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardSevenVeterans",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedDeflect",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedShieldWall",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedMilitaryTradition",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedThickHides",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmHardKnock",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmSharpenTheTip",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "BowRangersSwiftness",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowQuickAdjustments",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowPiercer",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowUnhorser",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingPerfectTechnique",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingLastHit",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingSplinters",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingWeakSpot",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsWellBuilt",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsSurgingBlow",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsAsymmetricalWarfare",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsSmallUnitTactics",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipFerventAttacker",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedStandUnited",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedSteelCoreShields",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedWoodChopper",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedConfidence",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "TwoHandedVandal",
+        "BelongToSkillStringId": "TwoHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmPikeman",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmCleanThrust",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmSteadKiller",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowFletcher",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowDeftHands",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingRunningThrow",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingThrowingCompetitions",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingHorseArcher",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsFury",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsSprint",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsHealthyCitizens",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsOnTheMarch",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipPresence",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmVirile",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeTravelingRumors",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardStiffUpperLip",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowDonkeysSwiftness",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedSwiftStrike",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "PolearmPhalanx",
+        "BelongToSkillStringId": "Polearm",
+        "Enable": true
+      },
+      {
+        "StringId": "BowBowControl",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowTrainer",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsLawkeeper",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "OneHandedChinkInTheArmor",
+        "BelongToSkillStringId": "OneHanded",
+        "Enable": true
+      },
+      {
+        "StringId": "BowSkirmishPhaseMaster",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "ThrowingWellPrepared",
+        "BelongToSkillStringId": "Throwing",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingBreeder",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingCavalryTactics",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeCaravanMaster",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardEfficientCampaigner",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "BowRenownedArcher",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "BowDeepQuivers",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowCounterFire",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingThunderousCharge",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsImproviser",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeTollgates",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeGreatInvestor",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardAidCorps",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmFlexibleEthics",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmYoungAndRespectful",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmMeaningfulFavors",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "RidingToughSteed",
+        "BelongToSkillStringId": "Riding",
+        "Enable": true
+      },
+      {
+        "StringId": "BowSalvo",
+        "BelongToSkillStringId": "Bow",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsSteady",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipCitizenMilitia",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmEffortForThePeople",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipUpliftingSpirit",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipMakeADifference",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardLogistician",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsPickThemOfTheWalls",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeContentTrades",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardGourmet",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmTribute",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmMoralLeader",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryTwoFaced",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryPromises",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryArmsDealer",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "CharmPublicSpeaker",
+        "BelongToSkillStringId": "Charm",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsStrongArms",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringTorsionEngines",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringSiegeWorks",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringMilitaryPlanner",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingWaterDiviner",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingForestKin",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingUnburdened",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryNoRestForTheWicked",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingDayTraveler",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingRanger",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryKnowHow",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "CharcoalYield",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowSteady",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowPavise",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "CrossbowTerror",
+        "BelongToSkillStringId": "Crossbow",
+        "Enable": true
+      },
+      {
+        "StringId": "AthleticsIgnorePain",
+        "BelongToSkillStringId": "Athletics",
+        "Enable": true
+      },
+      {
+        "StringId": "SteelMaker",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "SteelMaker2",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "SteelMaker3",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringDreadfulSieger",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineBushDoctor",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicinePerfectHealth",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineCleanInfrastructure",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "CraftingSharpenedTip",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "PracticalRefiner",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "ArtisanSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "VigorousSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "EnduringSmith",
+        "BelongToSkillStringId": "Crafting",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsEncirclement",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsPreBattleManeuvers",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "TacticsGensdarmes",
+        "BelongToSkillStringId": "Tactics",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingPatrols",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingBeastWhisperer",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingRumourNetwork",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingVantagePoint",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "ScoutingRearguard",
+        "BelongToSkillStringId": "Scouting",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryScarface",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RoguerySmugglerConnections",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryOneOfTheFamily",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryCarver",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "RogueryDashAndSlash",
+        "BelongToSkillStringId": "Roguery",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipGreatLeader",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "LeadershipTalentMagnet",
+        "BelongToSkillStringId": "Leadership",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeInsurancePlans",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeGranaryAccountant",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeSelfMadeMan",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeSilverTongue",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "TradeManOfMeans",
+        "BelongToSkillStringId": "Trade",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardForcedLabor",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardArenicosMules",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "StewardMasterOfWarcraft",
+        "BelongToSkillStringId": "Steward",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineFortitudeTonic",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "MedicineHelpingHands",
+        "BelongToSkillStringId": "Medicine",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringSalvager",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringStonecutters",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringBattlements",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringApprenticeship",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringMetallurgy",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      },
+      {
+        "StringId": "EngineeringClockwork",
+        "BelongToSkillStringId": "Engineering",
+        "Enable": true
+      }
+    ],
+    "Traits": [
+      {
+        "StringId": "Valor",
+        "Level": 2
+      },
+      {
+        "StringId": "Frequency",
+        "Level": 10
+      },
+      {
+        "StringId": "Mercy",
+        "Level": 2
+      },
+      {
+        "StringId": "Honor",
+        "Level": 2
+      },
+      {
+        "StringId": "Generosity",
+        "Level": 1
+      },
+      {
+        "StringId": "Calculating",
+        "Level": 2
+      },
+      {
+        "StringId": "curt",
+        "Level": 0
+      },
+      {
+        "StringId": "ironic",
+        "Level": 0
+      },
+      {
+        "StringId": "earnest",
+        "Level": 0
+      },
+      {
+        "StringId": "softspoken",
+        "Level": 0
+      },
+      {
+        "StringId": "Commander",
+        "Level": 10
+      },
+      {
+        "StringId": "BalancedFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "Politician",
+        "Level": 0
+      },
+      {
+        "StringId": "Manager",
+        "Level": 10
+      },
+      {
+        "StringId": "Surgeon",
+        "Level": 10
+      },
+      {
+        "StringId": "Tracking",
+        "Level": 10
+      },
+      {
+        "StringId": "Blacksmith",
+        "Level": 10
+      },
+      {
+        "StringId": "SergeantCommandSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "EngineerSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "RogueSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "DesertScoutSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "WoodsScoutSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "HillScoutSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "MarshesLore",
+        "Level": 0
+      },
+      {
+        "StringId": "SteppeScoutSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "KnightFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "CavalryFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "HorseArcherFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "HopliteFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "ArcherFIghtingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "CrossbowmanStyle",
+        "Level": 0
+      },
+      {
+        "StringId": "PeltastFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "HuscarlFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "BossFightingSkills",
+        "Level": 0
+      },
+      {
+        "StringId": "HeavyBuild",
+        "Level": 0
+      },
+      {
+        "StringId": "MuscularBuild",
+        "Level": 0
+      },
+      {
+        "StringId": "OutOfShapeBuild",
+        "Level": 0
+      },
+      {
+        "StringId": "LightBuild",
+        "Level": 0
+      },
+      {
+        "StringId": "Scarred",
+        "Level": 0
+      },
+      {
+        "StringId": "OneEyed",
+        "Level": 0
+      },
+      {
+        "StringId": "RomanHair",
+        "Level": 0
+      },
+      {
+        "StringId": "CelticHair",
+        "Level": 0
+      },
+      {
+        "StringId": "ArabianHair",
+        "Level": 0
+      },
+      {
+        "StringId": "RusHair",
+        "Level": 0
+      },
+      {
+        "StringId": "FrankishHair",
+        "Level": 0
+      },
+      {
+        "StringId": "SteppeHair",
+        "Level": 0
+      },
+      {
+        "StringId": "WandererEquipment",
+        "Level": 0
+      },
+      {
+        "StringId": "GentryEquipment",
+        "Level": 0
+      },
+      {
+        "StringId": "Thug",
+        "Level": 0
+      },
+      {
+        "StringId": "Thief",
+        "Level": 0
+      },
+      {
+        "StringId": "Gambler",
+        "Level": 0
+      },
+      {
+        "StringId": "Smuggler",
+        "Level": 0
+      },
+      {
+        "StringId": "Mercenary",
+        "Level": 0
+      },
+      {
+        "StringId": "Egalitarian",
+        "Level": 0
+      },
+      {
+        "StringId": "Oligarchic",
+        "Level": 0
+      },
+      {
+        "StringId": "Authoritarian",
+        "Level": 0
+      }
+    ]
+  },
+  {
     "SaveName": "hero1",
     "Level": 1,
     "SP": 0,
