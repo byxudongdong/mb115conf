@@ -206,22 +206,22 @@
       <UserModData>
         <Id>BetterCombat</Id>
         <LastKnownVersion>v2.7.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BannerEditor</Id>
         <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>sy.AdjustableBandits</Id>
         <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>KnockEmDown</Id>
         <LastKnownVersion>v1.2.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>KingdomPoliticsExpanded</Id>
@@ -231,32 +231,32 @@
       <UserModData>
         <Id>ArenaOverhaul</Id>
         <LastKnownVersion>v1.3.4.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AgeSettings</Id>
         <LastKnownVersion>v1.6.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bodyguards</Id>
         <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Telepathy</Id>
         <LastKnownVersion>v1.0.3.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>LivingParents</Id>
         <LastKnownVersion>v1.8.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>playerclan</Id>
         <LastKnownVersion>v1.8.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PartyAIOverhaulCommands</Id>
