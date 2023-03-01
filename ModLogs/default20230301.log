@@ -760,3 +760,102 @@
 [2023-03-01T22:50:34.1137033+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
 [2023-03-01T22:50:34.9698916+08:00] [Diplomacy.SubModule] [INF]: Loaded Diplomacy v1.2.5!
 [2023-03-01T22:50:41.1093630+08:00] [Diplomacy.SubModule] [INF]: Unloaded Diplomacy v1.2.5!
+[2023-03-01T22:53:35.4744709+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:53:35.5279481+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:53:35.5905901+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:53:35.5914993+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:53:35.5922372+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:53:35.5928391+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:53:35.5952567+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:53:35.5978004+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:53:35.6187010+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:53:35.6220486+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:53:39.2118857+08:00] [Diplomacy.SubModule] [INF]: Loading Diplomacy v1.2.5...
+[2023-03-01T22:53:49.4646633+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Register Types
+[2023-03-01T22:53:49.4735345+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Enabled
+[2023-03-01T22:53:49.4735345+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Register: FamilyTree, Version=1.2.2.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:53:49.4735345+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Register Types
+[2023-03-01T22:53:49.4735345+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Enabled
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.MBSubModuleBase' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: HarmonyExtensions.TryPatch: 'original' or all methods are null
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Loading implementations...
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.0.dll.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.1.dll.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.2.dll.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.3.dll.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.1.0.dll.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found matching implementation. Loading it.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Implementation Bannerlord.Diplomacy.1.1.0.dll for game v1.1.0.0 is loaded.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.GetDelegate<Bannerlord.ModuleLoader.LoaderHelper+ConstructorDelegate>: Error while compiling lambds expression 'System.InvalidOperationException: Instances of abstract classes cannot be created.
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Runtime.CompilerServices.RuntimeHelpers._CompileMethod(IRuntimeMethodInfo method)
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Reflection.Emit.DynamicMethod.CreateDelegate(Type delegateType, Object target)
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Compiler.LambdaCompiler.Compile(LambdaExpression lambda, DebugInfoGenerator debugInfoGenerator)
+[2023-03-01T22:53:49.4745392+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Expression`1.Compile()
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at HarmonyLib.BUTR.Extensions.AccessTools2.GetDelegate[TDelegate](ConstructorInfo constructorInfo)'
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: SubModule Bannerlord.BUTR.Shared.Utils.MBSubModuleBaseSimpleWrapper's default constructor could not be converted to a delegate!
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Finished loading implementations.
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'Diplomacy.SubModule' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Register: Bannerlord.Diplomacy.1.1.0, Version=1.2.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Register Types
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Enabled
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: BannerCraft - Register: BannerCraft, Version=1.0.16.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:53:49.4755396+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: BannerCraft - Register Types
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: BannerCraft - Enabled
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.MBSubModuleBase' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: HarmonyExtensions.TryPatch: 'original' or all methods are null
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Loading implementations...
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation ArenaOverhaul.1.0.0.dll.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation ArenaOverhaul.1.0.1.dll.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation ArenaOverhaul.1.0.2.dll.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation ArenaOverhaul.1.0.3.dll.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation ArenaOverhaul.1.1.0.dll.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found matching implementation. Loading it.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Implementation ArenaOverhaul.1.1.0.dll for game v1.1.0.0 is loaded.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.GetDelegate<Bannerlord.ModuleLoader.LoaderHelper+ConstructorDelegate>: Error while compiling lambds expression 'System.InvalidOperationException: Instances of abstract classes cannot be created.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Runtime.CompilerServices.RuntimeHelpers._CompileMethod(IRuntimeMethodInfo method)
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Reflection.Emit.DynamicMethod.CreateDelegate(Type delegateType, Object target)
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Compiler.LambdaCompiler.Compile(LambdaExpression lambda, DebugInfoGenerator debugInfoGenerator)
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Expression`1.Compile()
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at HarmonyLib.BUTR.Extensions.AccessTools2.GetDelegate[TDelegate](ConstructorInfo constructorInfo)'
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: SubModule Bannerlord.BUTR.Shared.Utils.MBSubModuleBaseSimpleWrapper's default constructor could not be converted to a delegate!
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Finished loading implementations.
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'ArenaOverhaul.SubModule' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:53:49.4760547+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.MBSubModuleBase' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:53:49.4770668+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: HarmonyExtensions.TryPatch: 'original' or all methods are null
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Loading implementations...
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation AllegianceOverhaul.1.0.0.dll.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation AllegianceOverhaul.1.0.1.dll.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation AllegianceOverhaul.1.0.2.dll.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation AllegianceOverhaul.1.0.3.dll.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation AllegianceOverhaul.1.1.0.dll.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found matching implementation. Loading it.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Implementation AllegianceOverhaul.1.1.0.dll for game v1.1.0.0 is loaded.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.GetDelegate<Bannerlord.ModuleLoader.LoaderHelper+ConstructorDelegate>: Error while compiling lambds expression 'System.InvalidOperationException: Instances of abstract classes cannot be created.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Runtime.CompilerServices.RuntimeHelpers._CompileMethod(IRuntimeMethodInfo method)
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Reflection.Emit.DynamicMethod.CreateDelegate(Type delegateType, Object target)
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Compiler.LambdaCompiler.Compile(LambdaExpression lambda, DebugInfoGenerator debugInfoGenerator)
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Expression`1.Compile()
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at HarmonyLib.BUTR.Extensions.AccessTools2.GetDelegate[TDelegate](ConstructorInfo constructorInfo)'
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: SubModule Bannerlord.BUTR.Shared.Utils.MBSubModuleBaseSimpleWrapper's default constructor could not be converted to a delegate!
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Finished loading implementations.
+[2023-03-01T22:53:49.4771499+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'AllegianceOverhaul.SubModule' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:53:49.6299954+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: 
+[2023-03-01T22:53:49.6299954+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.CampaignSystem.CampaignBehaviors.CampaignBehaviorManager' and name 'OnGameLoaded' and parameters ''
+[2023-03-01T22:53:49.7404107+08:00] [Bannerlord.ButterLib.Implementation.ObjectSystem.Patches.CampaignBehaviorManagerPatch] [ERR]: OnGameLoadedTargetMI is null
+[2023-03-01T22:53:50.2494590+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.FluentGlobalSettingsContainer (0)
+[2023-03-01T22:53:50.2501202+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.ExternalGlobalSettingsContainer (0)
+[2023-03-01T22:53:50.2917309+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.GlobalSettingsContainer (24)
+[2023-03-01T22:53:50.2932824+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.UI.ButterLib.ButterLibSettingsContainer (1)
+[2023-03-01T22:53:50.2938264+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.PerSave.FluentPerSaveSettingsContainer (0)
+[2023-03-01T22:53:50.2938264+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.PerSave.PerSaveSettingsContainer (0)
+[2023-03-01T22:53:50.2938264+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Campaign container MCM.Implementation.PerCampaign.FluentPerCampaignSettingsContainer (0)
+[2023-03-01T22:53:50.2948736+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Campaign container MCM.Implementation.PerCampaign.PerCampaignSettingsContainer (0)
+[2023-03-01T22:53:50.2958768+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found external provider MCM.UI.Adapter.MCMv5.Providers.MCMv5ExternalSettingsProvider (0)
+[2023-03-01T22:53:50.2958768+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:53:50.2968707+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register: MCMv5.UI, Version=5.5.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:53:50.2968707+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:53:50.2968707+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
+[2023-03-01T22:53:50.3144980+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:53:50.3144980+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:53:51.1108290+08:00] [Diplomacy.SubModule] [INF]: Loaded Diplomacy v1.2.5!
+[2023-03-01T22:53:57.3723823+08:00] [Diplomacy.SubModule] [INF]: Unloaded Diplomacy v1.2.5!

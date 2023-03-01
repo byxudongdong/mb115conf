@@ -261,17 +261,17 @@
       <UserModData>
         <Id>PartyAIOverhaulCommands</Id>
         <LastKnownVersion>v1.1.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AllegianceOverhaul</Id>
         <LastKnownVersion>v2.3.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>UsefullCompanions</Id>
         <LastKnownVersion>v0.5.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ButterAchievements</Id>
