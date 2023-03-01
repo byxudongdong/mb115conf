@@ -156,7 +156,7 @@
       <UserModData>
         <Id>ImmersiveSergeant</Id>
         <LastKnownVersion>v1.5.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ServeAsSoldier</Id>
@@ -181,7 +181,7 @@
       <UserModData>
         <Id>FamilyTree</Id>
         <LastKnownVersion>v1.2.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.Diplomacy</Id>
