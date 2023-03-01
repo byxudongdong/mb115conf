@@ -146,12 +146,12 @@
       <UserModData>
         <Id>FamilyControl</Id>
         <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>JoinHouses</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ImmersiveSergeant</Id>
@@ -166,12 +166,12 @@
       <UserModData>
         <Id>KaosesCommon</Id>
         <LastKnownVersion>v1.1.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>KaosesTweaks</Id>
         <LastKnownVersion>v1.0.7.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>MarryAnyone</Id>
