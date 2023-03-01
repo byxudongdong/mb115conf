@@ -301,7 +301,7 @@
       <UserModData>
         <Id>Bannerlord.CCsBanners</Id>
         <LastKnownVersion>v3.2.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RTSCamera</Id>
@@ -366,12 +366,12 @@
       <UserModData>
         <Id>EnableAchievement</Id>
         <LastKnownVersion>v0.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>TroopSort</Id>
         <LastKnownVersion>v1.1.3.2</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>XorberaxLegacy</Id>

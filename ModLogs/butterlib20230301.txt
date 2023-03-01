@@ -406,3 +406,25 @@
 [2023-03-01T22:59:35.0259801+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
 [2023-03-01T22:59:35.0300115+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
 [2023-03-01T22:59:50.0968654+08:00] [Bannerlord.ButterLib.Implementation.ObjectSystem.Patches.CampaignBehaviorManagerPatch] [ERR]: OnGameLoadedTargetMI is null
+[2023-03-01T23:02:59.1841174+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T23:02:59.2072171+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T23:02:59.2711446+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T23:02:59.2721486+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T23:02:59.2731484+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T23:02:59.2741481+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T23:02:59.2761488+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T23:02:59.2807266+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T23:02:59.2977580+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T23:02:59.3026498+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T23:03:20.1207641+08:00] [Bannerlord.ButterLib.Implementation.ObjectSystem.Patches.CampaignBehaviorManagerPatch] [ERR]: OnGameLoadedTargetMI is null
+[2023-03-01T23:04:17.2580888+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T23:04:17.2827633+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T23:04:17.3479897+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T23:04:17.3496143+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T23:04:17.3530143+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T23:04:17.3543903+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T23:04:17.3572623+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T23:04:17.3600787+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T23:04:17.3798086+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T23:04:17.3831706+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T23:04:33.9180903+08:00] [Bannerlord.ButterLib.Implementation.ObjectSystem.Patches.CampaignBehaviorManagerPatch] [ERR]: OnGameLoadedTargetMI is null
