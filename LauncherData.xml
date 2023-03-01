@@ -174,11 +174,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Fourberie</Id>
-        <LastKnownVersion>v10.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>AgricultureEstate</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -309,11 +304,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ArmsDealer</Id>
-        <LastKnownVersion>v4.0.3.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>zzy.ExtraLevelUp</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -324,16 +314,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ScatterAroundExpanded</Id>
-        <LastKnownVersion>v2.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MoreArenas</Id>
-        <LastKnownVersion>e1.5.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>NoMarriageOffersForFemaleMembers</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -341,6 +321,26 @@
       <UserModData>
         <Id>PartyScreenEnhancements</Id>
         <LastKnownVersion>v1.6.11.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CharacterManager</Id>
+        <LastKnownVersion>v3.3.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Fourberie</Id>
+        <LastKnownVersion>v10.0.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArmsDealer</Id>
+        <LastKnownVersion>v4.0.3.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ScatterAroundExpanded</Id>
+        <LastKnownVersion>v2.0.2.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -349,8 +349,8 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CharacterManager</Id>
-        <LastKnownVersion>v3.3.0.0</LastKnownVersion>
+        <Id>MoreArenas</Id>
+        <LastKnownVersion>e1.5.5.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -361,7 +361,7 @@
       <UserModData>
         <Id>ImprovedGarrisons</Id>
         <LastKnownVersion>v4.1.1.9</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>EnableAchievement</Id>
