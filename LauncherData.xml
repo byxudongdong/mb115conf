@@ -396,52 +396,52 @@
       <UserModData>
         <Id>XorberaxLegacy</Id>
         <LastKnownVersion>v1.0.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Heal on Kill</Id>
         <LastKnownVersion>v1.0.2.1</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>zCulturedStart</Id>
         <LastKnownVersion>v1.3.6.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>HideoutPlus</Id>
         <LastKnownVersion>v1.2.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PowerfulHeroes</Id>
         <LastKnownVersion>v1.1.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RelentlessSmith</Id>
         <LastKnownVersion>v1.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Cheats</Id>
         <LastKnownVersion>v3.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>WeaponGapFix</Id>
         <LastKnownVersion>v1.0.6.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>DestroyKingdom</Id>
         <LastKnownVersion>v0.3.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>HeroEnhancement</Id>
         <LastKnownVersion>v1.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Knight</Id>
