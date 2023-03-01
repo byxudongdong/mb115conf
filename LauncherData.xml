@@ -224,11 +224,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>KingdomPoliticsExpanded</Id>
-        <LastKnownVersion>v1.0.2.4</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ArenaOverhaul</Id>
         <LastKnownVersion>v1.3.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -276,17 +271,17 @@
       <UserModData>
         <Id>ButterAchievements</Id>
         <LastKnownVersion>v1.1.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>MoreHeroInteractions</Id>
         <LastKnownVersion>v1.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>EncyclopediaExtender</Id>
         <LastKnownVersion>v0.2.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>LordsHaveMedicineSkill</Id>
@@ -311,7 +306,7 @@
       <UserModData>
         <Id>RTSCamera</Id>
         <LastKnownVersion>v4.1.19.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArmsDealer</Id>
@@ -321,12 +316,12 @@
       <UserModData>
         <Id>zzy.ExtraLevelUp</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>UnlimitedMaxAttribute</Id>
         <LastKnownVersion>v1.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ScatterAroundExpanded</Id>

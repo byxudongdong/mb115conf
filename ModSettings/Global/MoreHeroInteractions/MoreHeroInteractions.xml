@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCMSettings>
+  <stripPrisonerLordMinRelationLoss>1</stripPrisonerLordMinRelationLoss>
+  <stripPrisonerLordMaxRelationLoss>3</stripPrisonerLordMaxRelationLoss>
+  <requestInterval>1</requestInterval>
+  <chanceForARequestPerClanTier>5</chanceForARequestPerClanTier>
+  <isIncestAllowed>false</isIncestAllowed>
+  <allowSameSexMarriage>false</allowSameSexMarriage>
+  <giftCooldown>7</giftCooldown>
+</MCMSettings>
