@@ -411,3 +411,193 @@
 [2023-03-01T22:34:25.7855554+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
 [2023-03-01T22:34:25.8026055+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
 [2023-03-01T22:34:25.8026055+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:35:12.1508673+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:35:12.2078035+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:35:12.2699817+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:35:12.2705758+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:35:12.2715015+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:35:12.2741101+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:35:12.2771124+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:35:12.2791622+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:35:12.2970318+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:35:12.3002419+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:36:01.2428638+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:36:01.3047069+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:36:01.3788712+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:36:01.3798760+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:36:01.3808071+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:36:01.3815417+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:36:01.3851071+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:36:01.3881034+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:36:01.4166838+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:36:01.4221436+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:36:46.8872006+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:36:46.9443109+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:36:47.0082286+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:36:47.0102255+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:36:47.0112258+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:36:47.0112258+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:36:47.0150063+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:36:47.0168404+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:36:47.0384910+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:36:47.0433047+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:38:23.8645541+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:38:23.9236229+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:38:23.9892116+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:38:23.9901098+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:38:23.9901098+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:38:23.9911099+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:38:23.9936272+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:38:23.9971735+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:38:24.0168233+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:38:24.0204225+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:39:05.3360074+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:39:05.3929072+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:39:05.4565389+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:39:05.4575694+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:39:05.4585683+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:39:05.4585683+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:39:05.4615705+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:39:05.4658375+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:39:05.4853588+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:39:05.4899784+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:40:20.9140969+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:40:20.9679610+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:40:21.0337097+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:40:21.0347539+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:40:21.0347539+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:40:21.0357532+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:40:21.0377530+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:40:21.0418564+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:40:21.0591882+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:40:21.0641955+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:41:55.7400736+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:41:55.8175439+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:41:55.9095514+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:41:55.9109550+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:41:55.9115312+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:41:55.9124771+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:41:55.9171124+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:41:55.9210636+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:41:55.9490913+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:41:55.9520979+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:42:00.2088878+08:00] [Diplomacy.SubModule] [INF]: Loading Diplomacy v1.2.5...
+[2023-03-01T22:43:52.5743269+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:43:52.6374401+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:43:52.7105801+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:43:52.7115935+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:43:52.7125939+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:43:52.7125939+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:43:52.7171180+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:43:52.7214510+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:43:52.7449781+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:43:52.7502867+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:43:56.8825189+08:00] [Diplomacy.SubModule] [INF]: Loading Diplomacy v1.2.5...
+[2023-03-01T22:44:06.5244496+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Register Types
+[2023-03-01T22:44:06.5285597+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Enabled
+[2023-03-01T22:44:06.5285597+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Register: FamilyTree, Version=1.2.2.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:44:06.5285597+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Register Types
+[2023-03-01T22:44:06.5285597+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Enabled
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.MBSubModuleBase' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: HarmonyExtensions.TryPatch: 'original' or all methods are null
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Loading implementations...
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.0.dll.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.1.dll.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.2.dll.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.3.dll.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.1.0.dll.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found matching implementation. Loading it.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Implementation Bannerlord.Diplomacy.1.1.0.dll for game v1.1.0.0 is loaded.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.GetDelegate<Bannerlord.ModuleLoader.LoaderHelper+ConstructorDelegate>: Error while compiling lambds expression 'System.InvalidOperationException: Instances of abstract classes cannot be created.
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Runtime.CompilerServices.RuntimeHelpers._CompileMethod(IRuntimeMethodInfo method)
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Reflection.Emit.DynamicMethod.CreateDelegate(Type delegateType, Object target)
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Compiler.LambdaCompiler.Compile(LambdaExpression lambda, DebugInfoGenerator debugInfoGenerator)
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Expression`1.Compile()
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at HarmonyLib.BUTR.Extensions.AccessTools2.GetDelegate[TDelegate](ConstructorInfo constructorInfo)'
+[2023-03-01T22:44:06.5295591+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: SubModule Bannerlord.BUTR.Shared.Utils.MBSubModuleBaseSimpleWrapper's default constructor could not be converted to a delegate!
+[2023-03-01T22:44:06.5305536+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Finished loading implementations.
+[2023-03-01T22:44:06.5305536+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'Diplomacy.SubModule' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:44:06.5305536+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Register: Bannerlord.Diplomacy.1.1.0, Version=1.2.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:44:06.5305536+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Register Types
+[2023-03-01T22:44:06.5305536+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Enabled
+[2023-03-01T22:44:06.6506015+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: 
+[2023-03-01T22:44:06.6506015+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.CampaignSystem.CampaignBehaviors.CampaignBehaviorManager' and name 'OnGameLoaded' and parameters ''
+[2023-03-01T22:44:06.7826679+08:00] [Bannerlord.ButterLib.Implementation.ObjectSystem.Patches.CampaignBehaviorManagerPatch] [ERR]: OnGameLoadedTargetMI is null
+[2023-03-01T22:44:07.2373110+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.FluentGlobalSettingsContainer (0)
+[2023-03-01T22:44:07.2378752+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.ExternalGlobalSettingsContainer (0)
+[2023-03-01T22:44:07.2699859+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.GlobalSettingsContainer (14)
+[2023-03-01T22:44:07.2709846+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.UI.ButterLib.ButterLibSettingsContainer (1)
+[2023-03-01T22:44:07.2719842+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.PerSave.FluentPerSaveSettingsContainer (0)
+[2023-03-01T22:44:07.2719842+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.PerSave.PerSaveSettingsContainer (0)
+[2023-03-01T22:44:07.2719842+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Campaign container MCM.Implementation.PerCampaign.FluentPerCampaignSettingsContainer (0)
+[2023-03-01T22:44:07.2729867+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Campaign container MCM.Implementation.PerCampaign.PerCampaignSettingsContainer (0)
+[2023-03-01T22:44:07.2739866+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found external provider MCM.UI.Adapter.MCMv5.Providers.MCMv5ExternalSettingsProvider (0)
+[2023-03-01T22:44:07.2753546+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:44:07.2753546+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register: MCMv5.UI, Version=5.5.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:44:07.2753546+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:44:07.2753546+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
+[2023-03-01T22:44:07.2963854+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:44:07.2963854+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:44:08.1791063+08:00] [Diplomacy.SubModule] [INF]: Loaded Diplomacy v1.2.5!
+[2023-03-01T22:44:13.0843654+08:00] [Diplomacy.SubModule] [INF]: Unloaded Diplomacy v1.2.5!
+[2023-03-01T22:44:52.2565383+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[2023-03-01T22:44:52.3144079+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.0.dll
+[2023-03-01T22:44:52.3817891+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.1.dll
+[2023-03-01T22:44:52.3830855+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.2.dll
+[2023-03-01T22:44:52.3842813+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.0.3.dll
+[2023-03-01T22:44:52.3849326+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.1.0.dll
+[2023-03-01T22:44:52.3886411+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it
+[2023-03-01T22:44:52.3928217+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.1.0.dll for game v1.1.0.0 is loaded
+[2023-03-01T22:44:52.4117178+08:00] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations
+[2023-03-01T22:44:52.4153768+08:00] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper
+[2023-03-01T22:44:56.0971071+08:00] [Diplomacy.SubModule] [INF]: Loading Diplomacy v1.2.5...
+[2023-03-01T22:45:05.1075271+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Register Types
+[2023-03-01T22:45:05.1142896+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Enabled
+[2023-03-01T22:45:05.1142896+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Register: FamilyTree, Version=1.2.2.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:45:05.1142896+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Register Types
+[2023-03-01T22:45:05.1142896+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: FamilyTree - Enabled
+[2023-03-01T22:45:05.1147976+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.MBSubModuleBase' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:45:05.1147976+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: HarmonyExtensions.TryPatch: 'original' or all methods are null
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Loading implementations...
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.0.dll.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.1.dll.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.2.dll.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.0.3.dll.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found implementation Bannerlord.Diplomacy.1.1.0.dll.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Found matching implementation. Loading it.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Implementation Bannerlord.Diplomacy.1.1.0.dll for game v1.1.0.0 is loaded.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.GetDelegate<Bannerlord.ModuleLoader.LoaderHelper+ConstructorDelegate>: Error while compiling lambds expression 'System.InvalidOperationException: Instances of abstract classes cannot be created.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Runtime.CompilerServices.RuntimeHelpers._CompileMethod(IRuntimeMethodInfo method)
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Reflection.Emit.DynamicMethod.CreateDelegate(Type delegateType, Object target)
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Compiler.LambdaCompiler.Compile(LambdaExpression lambda, DebugInfoGenerator debugInfoGenerator)
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at System.Linq.Expressions.Expression`1.Compile()
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]:    at HarmonyLib.BUTR.Extensions.AccessTools2.GetDelegate[TDelegate](ConstructorInfo constructorInfo)'
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: SubModule Bannerlord.BUTR.Shared.Utils.MBSubModuleBaseSimpleWrapper's default constructor could not be converted to a delegate!
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Finished loading implementations.
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: AccessTools2.Method: Could not find method for type 'Diplomacy.SubModule' and name 'OnServiceRegistration' and parameters ''
+[2023-03-01T22:45:05.1208411+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Register: Bannerlord.Diplomacy.1.1.0, Version=1.2.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:45:05.1218030+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Register Types
+[2023-03-01T22:45:05.1218030+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Diplomacy - Enabled
+[2023-03-01T22:45:05.1218030+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: BannerCraft - Register: BannerCraft, Version=1.0.16.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:45:05.1218030+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: BannerCraft - Register Types
+[2023-03-01T22:45:05.1218030+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: BannerCraft - Enabled
+[2023-03-01T22:45:05.2463220+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: 
+[2023-03-01T22:45:05.2463220+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.CampaignSystem.CampaignBehaviors.CampaignBehaviorManager' and name 'OnGameLoaded' and parameters ''
+[2023-03-01T22:45:05.3602232+08:00] [Bannerlord.ButterLib.Implementation.ObjectSystem.Patches.CampaignBehaviorManagerPatch] [ERR]: OnGameLoadedTargetMI is null
+[2023-03-01T22:45:05.7845525+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.FluentGlobalSettingsContainer (0)
+[2023-03-01T22:45:05.7855617+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.ExternalGlobalSettingsContainer (0)
+[2023-03-01T22:45:05.8160871+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Global.GlobalSettingsContainer (17)
+[2023-03-01T22:45:05.8177112+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Global container MCM.UI.ButterLib.ButterLibSettingsContainer (1)
+[2023-03-01T22:45:05.8178409+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.PerSave.FluentPerSaveSettingsContainer (0)
+[2023-03-01T22:45:05.8178409+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.PerSave.PerSaveSettingsContainer (0)
+[2023-03-01T22:45:05.8187195+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Campaign container MCM.Implementation.PerCampaign.FluentPerCampaignSettingsContainer (0)
+[2023-03-01T22:45:05.8192645+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found Campaign container MCM.Implementation.PerCampaign.PerCampaignSettingsContainer (0)
+[2023-03-01T22:45:05.8200132+08:00] [MCM.Implementation.DefaultSettingsProvider] [INF]: Found external provider MCM.UI.Adapter.MCMv5.Providers.MCMv5ExternalSettingsProvider (0)
+[2023-03-01T22:45:05.8200132+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:45:05.8200132+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register: MCMv5.UI, Version=5.5.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:45:05.8210605+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:45:05.8210605+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
+[2023-03-01T22:45:05.8406680+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:45:05.8406680+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:45:06.6659364+08:00] [Diplomacy.SubModule] [INF]: Loaded Diplomacy v1.2.5!
+[2023-03-01T22:45:13.7761277+08:00] [Diplomacy.SubModule] [INF]: Unloaded Diplomacy v1.2.5!
