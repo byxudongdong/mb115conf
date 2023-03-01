@@ -18,3 +18,33 @@
 [2023-03-01T22:08:33.5006278+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
 [2023-03-01T22:08:33.5247931+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
 [2023-03-01T22:08:33.5253303+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:16:05.9545247+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Register Types
+[2023-03-01T22:16:05.9629335+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Enabled
+[2023-03-01T22:16:06.0909321+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: 
+[2023-03-01T22:16:06.0909321+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.CampaignSystem.CampaignBehaviors.CampaignBehaviorManager' and name 'OnGameLoaded' and parameters ''
+[2023-03-01T22:16:06.6719613+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:16:06.6719613+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register: MCMv5.UI, Version=5.5.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:16:06.6719613+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:16:06.6719613+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
+[2023-03-01T22:16:06.7036972+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:16:06.7036972+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:22:17.6822856+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Register Types
+[2023-03-01T22:22:17.6904995+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Enabled
+[2023-03-01T22:22:17.7787109+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: 
+[2023-03-01T22:22:17.7787109+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.CampaignSystem.CampaignBehaviors.CampaignBehaviorManager' and name 'OnGameLoaded' and parameters ''
+[2023-03-01T22:22:18.2628189+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:22:18.2628189+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register: MCMv5.UI, Version=5.5.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:22:18.2628189+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:22:18.2628189+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
+[2023-03-01T22:22:18.2892150+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:22:18.2892150+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled
+[2023-03-01T22:25:01.1823131+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Register Types
+[2023-03-01T22:25:01.1862877+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: Bannerlord.UIExtenderEx.UIPatch - Enabled
+[2023-03-01T22:25:01.2866056+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [ERR]: 
+[2023-03-01T22:25:01.2866056+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.CampaignSystem.CampaignBehaviors.CampaignBehaviorManager' and name 'OnGameLoaded' and parameters ''
+[2023-03-01T22:25:01.7243259+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:25:01.7243259+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register: MCMv5.UI, Version=5.5.5.0, Culture=neutral, PublicKeyToken=null
+[2023-03-01T22:25:01.7243259+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:25:01.7248306+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Register Types
+[2023-03-01T22:25:01.7489505+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: 
+[2023-03-01T22:25:01.7489505+08:00] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: MCM.UI - Enabled

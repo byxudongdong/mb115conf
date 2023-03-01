@@ -126,16 +126,21 @@
       <UserModData>
         <Id>DrasticBattle</Id>
         <LastKnownVersion>v1.1.0.2</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>SueMoreSpouses</Id>
-        <LastKnownVersion>e1.0.1.3</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AutoResolveRebalanced</Id>
         <LastKnownVersion>v1.10.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SortedIncome</Id>
+        <LastKnownVersion>v4.1.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SueMoreSpouses</Id>
+        <LastKnownVersion>e1.0.1.3</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -146,11 +151,6 @@
       <UserModData>
         <Id>JoinHouses</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>SortedIncome</Id>
-        <LastKnownVersion>v4.1.2.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
