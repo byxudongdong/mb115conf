@@ -336,7 +336,7 @@
       <UserModData>
         <Id>NoMarriageOffersForFemaleMembers</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PartyScreenEnhancements</Id>
@@ -351,12 +351,12 @@
       <UserModData>
         <Id>CharacterManager</Id>
         <LastKnownVersion>v3.3.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>LongerCraftingParts</Id>
         <LastKnownVersion>v1.0.4.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ImprovedGarrisons</Id>
