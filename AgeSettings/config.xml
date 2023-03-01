@@ -5,8 +5,8 @@
     <Child>5</Child>
     <Teenager>9</Teenager>
     <Adult>14</Adult>
-    <Old>47</Old>
-    <Max>128</Max>
+    <Old>60</Old>
+    <Max>145</Max>
     <AgingSpeed>19</AgingSpeed>
     <AgingAppliesTo>Family</AgingAppliesTo>
     <AgingUntilTheAgeOf>Adult</AgingUntilTheAgeOf>
