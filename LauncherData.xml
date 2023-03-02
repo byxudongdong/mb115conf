@@ -111,12 +111,12 @@
       <UserModData>
         <Id>BetterHUD</Id>
         <LastKnownVersion>v1.4.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>DrasticBattle</Id>
         <LastKnownVersion>v1.1.0.2</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AutoResolveRebalanced</Id>
@@ -161,7 +161,7 @@
       <UserModData>
         <Id>BetterCombat</Id>
         <LastKnownVersion>v2.7.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BannerEditor</Id>
@@ -176,7 +176,7 @@
       <UserModData>
         <Id>KnockEmDown</Id>
         <LastKnownVersion>v1.2.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArenaOverhaul</Id>
@@ -229,18 +229,8 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BattleMiniMap</Id>
-        <LastKnownVersion>v1.1.5.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.CCsBanners</Id>
         <LastKnownVersion>v3.2.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RTSCamera</Id>
-        <LastKnownVersion>v4.1.19.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -281,7 +271,7 @@
       <UserModData>
         <Id>Heal on Kill</Id>
         <LastKnownVersion>v1.0.2.1</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PowerfulHeroes</Id>
@@ -316,6 +306,16 @@
       <UserModData>
         <Id>xdd</Id>
         <LastKnownVersion>v1.6.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RTSCamera</Id>
+        <LastKnownVersion>v4.1.19.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BattleMiniMap</Id>
+        <LastKnownVersion>v1.1.5.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
