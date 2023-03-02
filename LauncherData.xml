@@ -109,24 +109,14 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MyLittleWarband</Id>
-        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Baijin Troops</Id>
-        <LastKnownVersion>i1.0.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>BetterHUD</Id>
         <LastKnownVersion>v1.4.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>DrasticBattle</Id>
         <LastKnownVersion>v1.1.0.2</LastKnownVersion>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AutoResolveRebalanced</Id>
@@ -139,18 +129,8 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>FamilyControl</Id>
-        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>JoinHouses</Id>
         <LastKnownVersion>v0.0.1.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ImmersiveSergeant</Id>
-        <LastKnownVersion>v1.5.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -164,11 +144,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>FamilyTree</Id>
-        <LastKnownVersion>v1.2.2.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.Diplomacy</Id>
         <LastKnownVersion>v1.2.5.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -179,24 +154,14 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>TrueRecruitmentCosts</Id>
-        <LastKnownVersion>v1.2.3.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>BannerColorPersistence</Id>
         <LastKnownVersion>v1.4.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BannerCraft</Id>
-        <LastKnownVersion>v1.0.16.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>BetterCombat</Id>
         <LastKnownVersion>v2.7.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BannerEditor</Id>
@@ -211,7 +176,7 @@
       <UserModData>
         <Id>KnockEmDown</Id>
         <LastKnownVersion>v1.2.5.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArenaOverhaul</Id>
@@ -221,11 +186,6 @@
       <UserModData>
         <Id>AgeSettings</Id>
         <LastKnownVersion>v1.6.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bodyguards</Id>
-        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -271,11 +231,6 @@
       <UserModData>
         <Id>BattleMiniMap</Id>
         <LastKnownVersion>v1.1.5.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArrowCam</Id>
-        <LastKnownVersion>v1.0.0.1</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -326,7 +281,7 @@
       <UserModData>
         <Id>Heal on Kill</Id>
         <LastKnownVersion>v1.0.2.1</LastKnownVersion>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PowerfulHeroes</Id>
@@ -344,26 +299,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>DestroyKingdom</Id>
-        <LastKnownVersion>v0.3.2.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Knight</Id>
-        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>xdd</Id>
-        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>zCulturedStart</Id>
-        <LastKnownVersion>v1.3.6.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>AchievementUnblocker</Id>
         <LastKnownVersion>v1.0.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -374,8 +309,38 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>NobleTitles</Id>
-        <LastKnownVersion>v1.2.0.0</LastKnownVersion>
+        <Id>Knight</Id>
+        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>xdd</Id>
+        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MyLittleWarband</Id>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Baijin Troops</Id>
+        <LastKnownVersion>i1.0.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArrowCam</Id>
+        <LastKnownVersion>v1.0.0.1</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>zCulturedStart</Id>
+        <LastKnownVersion>v1.3.6.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DestroyKingdom</Id>
+        <LastKnownVersion>v0.3.2.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -411,11 +376,6 @@
       <UserModData>
         <Id>EnableAchievement</Id>
         <LastKnownVersion>v0.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Telepathy</Id>
-        <LastKnownVersion>v1.0.3.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
