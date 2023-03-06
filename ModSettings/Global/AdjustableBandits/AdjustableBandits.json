@@ -8,8 +8,8 @@
   "SpawnPercentageForFirstFightInHideoutMission": 0.75,
   "NumberOfMinimumBanditTroopsInHideoutMission": 75,
   "PlayerMaximumTroopCountForHideoutMission": 10,
-  "BanditMultiplier": 4.7275,
-  "BanditPartySizeLimit": 565,
+  "BanditMultiplier": 6.0,
+  "BanditPartySizeLimit": 356,
   "NumberOfMaximumLooterParties": 152,
   "NumberOfMaximumBanditPartiesAroundEachHideout": 8
 }

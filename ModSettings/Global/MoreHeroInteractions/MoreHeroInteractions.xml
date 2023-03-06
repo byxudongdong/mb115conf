@@ -6,5 +6,5 @@
   <chanceForARequestPerClanTier>5</chanceForARequestPerClanTier>
   <isIncestAllowed>false</isIncestAllowed>
   <allowSameSexMarriage>false</allowSameSexMarriage>
-  <giftCooldown>7</giftCooldown>
+  <giftCooldown>1</giftCooldown>
 </MCMSettings>

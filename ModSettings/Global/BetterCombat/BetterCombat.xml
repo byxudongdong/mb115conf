@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MCMSettings>
-  <CampaignHealthRegenMultiplier>21.6049385</CampaignHealthRegenMultiplier>
+  <CampaignHealthRegenMultiplier>15</CampaignHealthRegenMultiplier>
   <TroopHealthAthletics>0.5</TroopHealthAthletics>
   <TroopPercentHealthPerLevel>false</TroopPercentHealthPerLevel>
   <TroopPercent>0.01</TroopPercent>
@@ -14,7 +14,7 @@
   <PlayerPercent>0.01</PlayerPercent>
   <PlayerFlatAmount>10</PlayerFlatAmount>
   <PlayerFlatHealthPerLevel>true</PlayerFlatHealthPerLevel>
-  <BandageTime>1.51850951</BandageTime>
+  <BandageTime>1</BandageTime>
   <BandageEnabled>true</BandageEnabled>
   <BandageKey>Q</BandageKey>
   <BandageHealAmount>300</BandageHealAmount>

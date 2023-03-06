@@ -125,7 +125,7 @@
       </UserModData>
       <UserModData>
         <Id>SortedIncome</Id>
-        <LastKnownVersion>v4.1.2.0</LastKnownVersion>
+        <LastKnownVersion>v4.1.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -150,12 +150,12 @@
       </UserModData>
       <UserModData>
         <Id>AgricultureEstate</Id>
-        <LastKnownVersion>v0.0.1.0</LastKnownVersion>
+        <LastKnownVersion>v1.1.0.1</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BannerColorPersistence</Id>
-        <LastKnownVersion>v1.4.2.0</LastKnownVersion>
+        <LastKnownVersion>v1.4.3.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -230,7 +230,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.CCsBanners</Id>
-        <LastKnownVersion>v3.2.0.0</LastKnownVersion>
+        <LastKnownVersion>v3.2.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -274,11 +274,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PowerfulHeroes</Id>
-        <LastKnownVersion>v1.1.5.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RelentlessSmith</Id>
         <LastKnownVersion>v1.0.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -304,28 +299,63 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>TestOfShield</Id>
+        <LastKnownVersion>v0.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TakeBoth</Id>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Baijin Troops</Id>
+        <LastKnownVersion>i1.0.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>EquipBestItem</Id>
+        <LastKnownVersion>v1.10.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ScatterAroundExpanded</Id>
+        <LastKnownVersion>v2.0.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Cheats</Id>
+        <LastKnownVersion>v3.1.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>zzy.ExtraLevelUp</Id>
+        <LastKnownVersion>v0.0.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MyLittleWarband</Id>
+        <LastKnownVersion>v1.8.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Fourberie</Id>
+        <LastKnownVersion>v11.0.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>xdd</Id>
         <LastKnownVersion>v1.6.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RTSCamera</Id>
-        <LastKnownVersion>v4.1.19.0</LastKnownVersion>
+        <Id>PowerfulHeroes</Id>
+        <LastKnownVersion>v1.1.5.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BattleMiniMap</Id>
         <LastKnownVersion>v1.1.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MyLittleWarband</Id>
-        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Baijin Troops</Id>
-        <LastKnownVersion>i1.0.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -344,11 +374,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ScatterAroundExpanded</Id>
-        <LastKnownVersion>v2.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>HeroEnhancement</Id>
         <LastKnownVersion>v1.0.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
@@ -360,7 +385,7 @@
       </UserModData>
       <UserModData>
         <Id>TroopSort</Id>
-        <LastKnownVersion>v1.1.3.2</LastKnownVersion>
+        <LastKnownVersion>v1.1.0.10</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -369,23 +394,8 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>zzy.ExtraLevelUp</Id>
-        <LastKnownVersion>v0.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>EnableAchievement</Id>
         <LastKnownVersion>v0.0.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Cheats</Id>
-        <LastKnownVersion>v3.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Fourberie</Id>
-        <LastKnownVersion>v10.0.1.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -395,8 +405,48 @@
       </UserModData>
       <UserModData>
         <Id>BetterExceptionWindow</Id>
-        <LastKnownVersion>v6.2.0.0</LastKnownVersion>
+        <LastKnownVersion>v6.5.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MaidensOfSteel</Id>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MorePrisonerInteractions</Id>
+        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RandomEvents</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Separatism</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BreakAndEnter</Id>
+        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RighteousExecutions</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Telepathy</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TodayWeFeast</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1083,6 +1133,42 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>AchievementUnblocker.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>TestOfShield.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MorePrisonerInteractions.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>RandomEvents.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BreakAndEnter.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>RighteousExecutions.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>TodayWeFeast.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
