@@ -44,6 +44,6 @@ EnableSingleplayerChatBox=True
 EnableMultiplayerChatBox=True
 ChatBoxSizeX=495
 ChatBoxSizeY=340
-LatestSaveGameName=newnew222
+LatestSaveGameName=xiaoguo111
 HideBattleUI=False
 UnitSpawnPrioritization=3

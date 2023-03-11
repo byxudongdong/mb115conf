@@ -334,18 +334,48 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MyLittleWarband</Id>
-        <LastKnownVersion>v1.8.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Fourberie</Id>
         <LastKnownVersion>v11.0.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TroopSort</Id>
+        <LastKnownVersion>v1.1.0.10</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MyLittleWarband</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>HideoutPlus</Id>
+        <LastKnownVersion>v1.2.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>HeroEnhancement</Id>
+        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MorePrisonerInteractions</Id>
+        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RandomEvents</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>xdd</Id>
         <LastKnownVersion>v1.6.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DestroyKingdom</Id>
+        <LastKnownVersion>v0.3.2.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -366,26 +396,6 @@
       <UserModData>
         <Id>zCulturedStart</Id>
         <LastKnownVersion>v1.3.6.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DestroyKingdom</Id>
-        <LastKnownVersion>v0.3.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>HeroEnhancement</Id>
-        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>HideoutPlus</Id>
-        <LastKnownVersion>v1.2.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>TroopSort</Id>
-        <LastKnownVersion>v1.1.0.10</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -414,19 +424,9 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MorePrisonerInteractions</Id>
-        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RandomEvents</Id>
-        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Separatism</Id>
         <LastKnownVersion>v1.1.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BreakAndEnter</Id>
@@ -447,6 +447,51 @@
         <Id>TodayWeFeast</Id>
         <LastKnownVersion>v1.1.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RTSCamera</Id>
+        <LastKnownVersion>v4.1.23.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RTSCamera.CommandSystem</Id>
+        <LastKnownVersion>v4.1.23.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>NoSafeModePrompt</Id>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>sy.AdjustableLeveling</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>zhugeliannu</Id>
+        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>KingdomDestruction</Id>
+        <LastKnownVersion>v0.0.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CA_BloodSmoke_Items</Id>
+        <LastKnownVersion>v1.2.8.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>LT_Education</Id>
+        <LastKnownVersion>v1.2.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>NeatedsNPCsUpgradeEquipment</Id>
+        <LastKnownVersion>e1.1.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1169,6 +1214,30 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>TodayWeFeast.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>NoSafeModePrompt.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AdjustableLeveling.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>LT_Education.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>NeatedNPCsupgradeEquipment.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

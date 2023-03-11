@@ -22,7 +22,7 @@
   <PlayerRegenDamageDelay>1</PlayerRegenDamageDelay>
   <PlayerHealthRegenInterval>1</PlayerHealthRegenInterval>
   <PlayerHealthRegenAmount>1</PlayerHealthRegenAmount>
-  <HealthRegenEnabled>false</HealthRegenEnabled>
+  <HealthRegenEnabled>true</HealthRegenEnabled>
   <HealthOnHitEnabled>false</HealthOnHitEnabled>
   <PlayerMinHealthOnHit>1</PlayerMinHealthOnHit>
   <PlayerMaxHealthOnHit>10</PlayerMaxHealthOnHit>

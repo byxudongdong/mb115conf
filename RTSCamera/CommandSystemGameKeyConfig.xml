@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommandSystemGameKeyConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category>
+    <CategoryId>RTSCameraCommandSystemHotKey</CategoryId>
+    <GameKeySequences>
+      <SerializedGameKeySequence>
+        <StringId>SelectFormation</StringId>
+        <KeyboardKeys>
+          <InputKey>MiddleMouseButton</InputKey>
+        </KeyboardKeys>
+      </SerializedGameKeySequence>
+    </GameKeySequences>
+  </Category>
+  <ConfigVersion>1.0</ConfigVersion>
+</CommandSystemGameKeyConfig>

@@ -2,7 +2,7 @@
 <Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>c1.0.4</Version>
   <ActivateDeleteAllModsPartiesMode>false</ActivateDeleteAllModsPartiesMode>
-  <DeactivateTutorial>false</DeactivateTutorial>
+  <DeactivateTutorial>true</DeactivateTutorial>
   <DisableDailyMessage>false</DisableDailyMessage>
   <EnableMapBannerTracker>true</EnableMapBannerTracker>
   <NPCSpawnGuards>false</NPCSpawnGuards>

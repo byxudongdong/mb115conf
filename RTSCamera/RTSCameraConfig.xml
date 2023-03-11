@@ -11,7 +11,7 @@
   <IgnoreTerrain>false</IgnoreTerrain>
   <IgnoreBoundaries>false</IgnoreBoundaries>
   <SlowMotionMode>false</SlowMotionMode>
-  <SlowMotionFactor>0.496296048</SlowMotionFactor>
+  <SlowMotionFactor>1</SlowMotionFactor>
   <DisplayMessage>true</DisplayMessage>
   <ControlAllyAfterDeath>true</ControlAllyAfterDeath>
   <PreferToControlCompanions>false</PreferToControlCompanions>
