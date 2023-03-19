@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MCMSettings>
-  <CampaignHealthRegenMultiplier>15</CampaignHealthRegenMultiplier>
+  <CampaignHealthRegenMultiplier>10</CampaignHealthRegenMultiplier>
   <TroopHealthAthletics>0.5</TroopHealthAthletics>
   <TroopPercentHealthPerLevel>false</TroopPercentHealthPerLevel>
   <TroopPercent>0.01</TroopPercent>
@@ -19,7 +19,7 @@
   <BandageKey>Q</BandageKey>
   <BandageHealAmount>300</BandageHealAmount>
   <BandageAmount>12</BandageAmount>
-  <PlayerRegenDamageDelay>1</PlayerRegenDamageDelay>
+  <PlayerRegenDamageDelay>3</PlayerRegenDamageDelay>
   <PlayerHealthRegenInterval>1</PlayerHealthRegenInterval>
   <PlayerHealthRegenAmount>1</PlayerHealthRegenAmount>
   <HealthRegenEnabled>true</HealthRegenEnabled>
@@ -31,7 +31,7 @@
   <HealingLimit>false</HealingLimit>
   <FleeingChance>1</FleeingChance>
   <PerventFleeing>true</PerventFleeing>
-  <CutThroughChance>1</CutThroughChance>
+  <CutThroughChance>0.8</CutThroughChance>
   <CutThroughPlayerOnly>true</CutThroughPlayerOnly>
   <CutThroughActive>true</CutThroughActive>
   <MutliHitOneHanded>true</MutliHitOneHanded>

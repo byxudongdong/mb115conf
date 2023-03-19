@@ -5,22 +5,27 @@
     <ModDatas>
       <UserModData>
         <Id>Bannerlord.Harmony</Id>
-        <LastKnownVersion>v2.2.2.145</LastKnownVersion>
+        <LastKnownVersion>v2.10.1.154</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterExceptionWindow</Id>
+        <LastKnownVersion>v6.5.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.ButterLib</Id>
-        <LastKnownVersion>v2.6.3.0</LastKnownVersion>
+        <LastKnownVersion>v2.7.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.UIExtenderEx</Id>
-        <LastKnownVersion>v2.6.0.0</LastKnownVersion>
+        <LastKnownVersion>v2.7.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.MBOptionScreen</Id>
-        <LastKnownVersion>v5.5.5.0</LastKnownVersion>
+        <LastKnownVersion>v5.6.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -110,7 +115,7 @@
       </UserModData>
       <UserModData>
         <Id>BetterHUD</Id>
-        <LastKnownVersion>v1.4.0.0</LastKnownVersion>
+        <LastKnownVersion>v1.5.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -125,7 +130,7 @@
       </UserModData>
       <UserModData>
         <Id>SortedIncome</Id>
-        <LastKnownVersion>v4.1.4.0</LastKnownVersion>
+        <LastKnownVersion>v4.2.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -160,7 +165,7 @@
       </UserModData>
       <UserModData>
         <Id>BetterCombat</Id>
-        <LastKnownVersion>v2.7.0.0</LastKnownVersion>
+        <LastKnownVersion>v2.8.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -181,11 +186,6 @@
       <UserModData>
         <Id>ArenaOverhaul</Id>
         <LastKnownVersion>v1.3.4.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AgeSettings</Id>
-        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -234,11 +234,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PartyScreenEnhancements</Id>
-        <LastKnownVersion>v1.6.11.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CharacterManager</Id>
         <LastKnownVersion>v3.3.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -255,7 +250,7 @@
       </UserModData>
       <UserModData>
         <Id>XorberaxLegacy</Id>
-        <LastKnownVersion>v1.0.5.1</LastKnownVersion>
+        <LastKnownVersion>v1.0.5.2</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -280,7 +275,7 @@
       </UserModData>
       <UserModData>
         <Id>ImprovedGarrisons</Id>
-        <LastKnownVersion>v4.1.2.5</LastKnownVersion>
+        <LastKnownVersion>v4.1.2.6</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -310,7 +305,7 @@
       </UserModData>
       <UserModData>
         <Id>Cheats</Id>
-        <LastKnownVersion>v3.1.1.0</LastKnownVersion>
+        <LastKnownVersion>v3.0.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -320,12 +315,12 @@
       </UserModData>
       <UserModData>
         <Id>Fourberie</Id>
-        <LastKnownVersion>v11.0.1.0</LastKnownVersion>
+        <LastKnownVersion>v11.0.3.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>TroopSort</Id>
-        <LastKnownVersion>v1.1.0.10</LastKnownVersion>
+        <LastKnownVersion>v1.1.1.1</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -340,12 +335,12 @@
       </UserModData>
       <UserModData>
         <Id>MorePrisonerInteractions</Id>
-        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
+        <LastKnownVersion>v1.1.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RandomEvents</Id>
-        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <LastKnownVersion>v1.1.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -385,7 +380,7 @@
       </UserModData>
       <UserModData>
         <Id>KingdomDestruction</Id>
-        <LastKnownVersion>v0.0.1.0</LastKnownVersion>
+        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -409,14 +404,19 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>UnlimitedMaxAttribute</Id>
-        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>sy.AdjustableLeveling</Id>
         <LastKnownVersion>v1.1.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>NeatedsNPCsUpgradeEquipment</Id>
+        <LastKnownVersion>e1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>UnlimitedMaxAttribute</Id>
+        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bodyguards</Id>
@@ -426,11 +426,6 @@
       <UserModData>
         <Id>MyLittleWarband</Id>
         <LastKnownVersion>v1.1.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>NeatedsNPCsUpgradeEquipment</Id>
-        <LastKnownVersion>e1.1.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -444,18 +439,23 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>EncyclopediaExtender</Id>
-        <LastKnownVersion>v0.2.2.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>xdd</Id>
         <LastKnownVersion>v1.6.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterExceptionWindow</Id>
-        <LastKnownVersion>v6.5.0.0</LastKnownVersion>
+        <Id>EncyclopediaExtender</Id>
+        <LastKnownVersion>v0.2.2.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AgeSettings</Id>
+        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PartyScreenEnhancements</Id>
+        <LastKnownVersion>v1.6.11.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -494,8 +494,38 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>Leveling_rebalance</Id>
+        <LastKnownVersion>v2.0.5.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>ArmsDealer</Id>
         <LastKnownVersion>v4.0.3.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FamilyControl</Id>
+        <LastKnownVersion>v1.0.3.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SueMoreSpouses</Id>
+        <LastKnownVersion>e1.1.0.1</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SpecialLoot</Id>
+        <LastKnownVersion>v1.1.7.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ServeAsSoldier</Id>
+        <LastKnownVersion>v1.1.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>LogRaamBattleLoot</Id>
+        <LastKnownVersion>v1.0.1.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
@@ -1243,6 +1273,24 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>NeatedNPCsupgradeEquipment.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Leveling_Rebalance.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SpecialLoot.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>LogRaamBattleLoot.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

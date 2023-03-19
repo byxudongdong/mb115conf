@@ -17,7 +17,7 @@
   },
   "NamelessNPCSetting": {
     "NPCCharaObjectSkillAuto": false,
-    "NPCCharaObjectFromTier": 4,
+    "NPCCharaObjectFromTier": 3,
     "Enable": true
   }
 }
