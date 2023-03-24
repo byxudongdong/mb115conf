@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RTSCameraConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <UseFreeCameraByDefault>false</UseFreeCameraByDefault>
-  <RaisedHeight>15</RaisedHeight>
+  <RaisedHeight>9</RaisedHeight>
   <PlayerControllerInFreeCamera>1</PlayerControllerInFreeCamera>
   <PlayerFormation>1</PlayerFormation>
   <AlwaysSetPlayerFormation>false</AlwaysSetPlayerFormation>
   <AutoSetPlayerFormation>Always</AutoSetPlayerFormation>
   <ConstantSpeed>false</ConstantSpeed>
-  <CameraHeightFollowsTerrain>false</CameraHeightFollowsTerrain>
+  <CameraHeightFollowsTerrain>true</CameraHeightFollowsTerrain>
   <IgnoreTerrain>false</IgnoreTerrain>
   <IgnoreBoundaries>false</IgnoreBoundaries>
   <SlowMotionMode>false</SlowMotionMode>
