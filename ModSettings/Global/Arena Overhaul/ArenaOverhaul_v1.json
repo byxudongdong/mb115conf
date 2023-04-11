@@ -38,11 +38,11 @@
   "PracticeEnableLoadoutChoice": true,
   "PracticeLoadoutChoiceCost": 100,
   "PracticeExperienceRate": 1.0,
-  "PracticeValorReward1": 5,
-  "PracticeValorReward2": 10,
-  "PracticeValorReward3": 25,
-  "PracticeValorReward4": 60,
-  "PracticeValorReward5": 150,
+  "PracticeValorReward1": 50,
+  "PracticeValorReward2": 100,
+  "PracticeValorReward3": 250,
+  "PracticeValorReward4": 600,
+  "PracticeValorReward5": 1500,
   "PracticeChampionPrizeCalculation": 2,
   "PracticeChampionReward": 2500
 }

@@ -1,10 +1,10 @@
 {
-  "MinLogLevel": 3,
+  "MinLogLevel": 2,
   "Save System Enabled": true,
   "Object System Enabled": true,
   "MBSubModuleBase extended Enabled": true,
   "Hot Keys Enabled": true,
-  "ExceptionHandler Enabled": true,
+  "ExceptionHandler Enabled": false,
   "ExceptionHandlerSubSystem_DisableWhenDebuggerIsAttached": true,
   "Distance Matrix Enabled": false,
   "CrashUploader Enabled": true

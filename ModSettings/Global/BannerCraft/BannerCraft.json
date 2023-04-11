@@ -1,7 +1,0 @@
-{
-  "AllowCraftingNormalWeapons": false,
-  "DefaultSmeltingModel": false,
-  "AllowSmeltingOtherItems": true,
-  "SkillOverDifficultyBeforeNoPenalty": 25,
-  "MaximumBotchChance": 0.95
-}

@@ -1,15 +1,15 @@
 {
   "NumberOfInitialHideoutsAtEachBanditFaction": 3,
   "NumberOfMaximumHideoutsAtEachBanditFaction": 10,
-  "NumberOfMinimumBanditPartiesInAHideoutToInfestIt": 3,
-  "NumberOfMaximumBanditPartiesInEachHideout": 5,
+  "NumberOfMinimumBanditPartiesInAHideoutToInfestIt": 2,
+  "NumberOfMaximumBanditPartiesInEachHideout": 4,
   "NumberOfMaximumTroopCountForFirstFightInHideoutFactor": 1.0,
   "NumberOfMaximumTroopCountForBossFightInHideoutFactor": 1.0,
   "SpawnPercentageForFirstFightInHideoutMission": 0.75,
-  "NumberOfMinimumBanditTroopsInHideoutMission": 75,
+  "NumberOfMinimumBanditTroopsInHideoutMission": 10,
   "PlayerMaximumTroopCountForHideoutMission": 10,
   "BanditMultiplier": 6.0,
-  "BanditPartySizeLimit": 356,
-  "NumberOfMaximumLooterParties": 152,
+  "BanditPartySizeLimit": 600,
+  "NumberOfMaximumLooterParties": 150,
   "NumberOfMaximumBanditPartiesAroundEachHideout": 8
 }

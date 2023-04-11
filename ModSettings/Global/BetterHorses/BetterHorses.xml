@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCMSettings>
+  <CallKey>Q</CallKey>
+  <CommandableMount>false</CommandableMount>
+  <MountsDontRearPlayerOnly>false</MountsDontRearPlayerOnly>
+  <MountsDontRear>false</MountsDontRear>
+  <MountRegenDamageDelay>1</MountRegenDamageDelay>
+  <MountHealthRegenAmount>10</MountHealthRegenAmount>
+  <MountHealthRegenInterval>1</MountHealthRegenInterval>
+  <ChargeDamage>3</ChargeDamage>
+  <InvulnerableMount>false</InvulnerableMount>
+</MCMSettings>

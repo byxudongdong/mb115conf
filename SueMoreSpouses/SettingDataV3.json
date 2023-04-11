@@ -1,7 +1,7 @@
 ﻿{
   "EXSpouseGetPregnancySetting": {
-    "ExspouseGetPregnancyDailyChance": 0.0,
-    "ExspouseGetPregnancyDurationInDays": 30,
+    "ExspouseGetPregnancyDailyChance": 0.007062147,
+    "ExspouseGetPregnancyDurationInDays": 36,
     "Enable": true
   },
   "ChildrenFastGrowthSetting": {

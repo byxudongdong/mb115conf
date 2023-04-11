@@ -1,0 +1,13 @@
+{
+  "LordsNotifications": true,
+  "NPCBoughtFromCultureOnly": true,
+  "LordsUpgradeWeapons": true,
+  "LordsUpgradeArmor": false,
+  "LordsUpgradeHorses": true,
+  "CompanionsRespectCulture": true,
+  "CompanionsUpgradeWeapons": true,
+  "CompanionsUpgradeArmor": false,
+  "CompanionsUpgradeHorses": true,
+  "CompanionsNotifications": true,
+  "Percent": 35
+}
