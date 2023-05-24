@@ -9,7 +9,7 @@
   "NumberOfMinimumBanditTroopsInHideoutMission": 10,
   "PlayerMaximumTroopCountForHideoutMission": 10,
   "BanditMultiplier": 6.0,
-  "BanditPartySizeLimit": 600,
+  "BanditPartySizeLimit": 900,
   "NumberOfMaximumLooterParties": 150,
   "NumberOfMaximumBanditPartiesAroundEachHideout": 8
 }

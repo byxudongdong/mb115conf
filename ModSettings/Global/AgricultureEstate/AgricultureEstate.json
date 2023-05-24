@@ -3,8 +3,8 @@
   "PlotSellPrice": 12000,
   "ProjectCost": 20000,
   "ProjectTime": 1,
-  "LandRentScale": 10.0,
-  "SlaveProductionScale": 10.0,
+  "LandRentScale": 2.0,
+  "SlaveProductionScale": 2.0,
   "SlaveDeclineModifier": 1.0,
   "UndevelopedPlotBuyPrice": 4000,
   "UndevelopedPlotSellPrice": 5200

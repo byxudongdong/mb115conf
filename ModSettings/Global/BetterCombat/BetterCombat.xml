@@ -8,11 +8,11 @@
   <TroopFlatHealthPerLevel>true</TroopFlatHealthPerLevel>
   <HeroPercentHealthPerLevel>false</HeroPercentHealthPerLevel>
   <HeroPercent>0.01</HeroPercent>
-  <HeroFlatAmount>10</HeroFlatAmount>
+  <HeroFlatAmount>5</HeroFlatAmount>
   <HeroFlatHealthPerLevel>true</HeroFlatHealthPerLevel>
   <PlayerPercentHealthPerLevel>false</PlayerPercentHealthPerLevel>
   <PlayerPercent>0.01</PlayerPercent>
-  <PlayerFlatAmount>10</PlayerFlatAmount>
+  <PlayerFlatAmount>5</PlayerFlatAmount>
   <PlayerFlatHealthPerLevel>true</PlayerFlatHealthPerLevel>
   <BandageTime>1</BandageTime>
   <BandageEnabled>true</BandageEnabled>

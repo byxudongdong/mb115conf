@@ -3,7 +3,7 @@
   <UseFreeCameraByDefault>false</UseFreeCameraByDefault>
   <RaisedHeight>10</RaisedHeight>
   <PlayerControllerInFreeCamera>1</PlayerControllerInFreeCamera>
-  <PlayerFormation>8</PlayerFormation>
+  <PlayerFormation>2</PlayerFormation>
   <AlwaysSetPlayerFormation>false</AlwaysSetPlayerFormation>
   <AutoSetPlayerFormation>Always</AutoSetPlayerFormation>
   <ConstantSpeed>false</ConstantSpeed>

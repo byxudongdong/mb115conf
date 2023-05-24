@@ -26,7 +26,7 @@
   "LearningRateMultiplier": 1.0,
   "LearningLimitMultiplier": 1.0,
   "ClanExperienceMultiplier": 2.0,
-  "ExperienceMultiplier": 2.0,
+  "ExperienceMultiplier": 1.0,
   "FreeFocusPointAssignment": false,
   "TroopExperienceMultiplier": 2.0,
   "NoRelationshipLossOnDecision": false,

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UserData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <GameType>Multiplayer</GameType>
+  <GameType>Singleplayer</GameType>
   <SingleplayerData>
     <ModDatas>
       <UserModData>
@@ -30,32 +30,47 @@
       </UserModData>
       <UserModData>
         <Id>Native</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.16165</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>SandBoxCore</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.16165</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Sandbox</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.16165</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>StoryMode</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.16165</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>CustomBattle</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.16165</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BirthAndDeath</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.16165</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AdonnaysTroopChanger</Id>
+        <LastKnownVersion>v1.9.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.EncyclopediaExtender</Id>
+        <LastKnownVersion>v1.1.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>NobleTitlesPlus</Id>
+        <LastKnownVersion>v1.1.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -66,11 +81,6 @@
       <UserModData>
         <Id>T7TroopUnlocker</Id>
         <LastKnownVersion>v1.0.1.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AdonnaysTroopChanger</Id>
-        <LastKnownVersion>v1.9.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -130,7 +140,7 @@
       </UserModData>
       <UserModData>
         <Id>SortedIncome</Id>
-        <LastKnownVersion>v4.2.2.0</LastKnownVersion>
+        <LastKnownVersion>v4.2.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -150,7 +160,7 @@
       </UserModData>
       <UserModData>
         <Id>AgricultureEstate</Id>
-        <LastKnownVersion>v1.1.0.1</LastKnownVersion>
+        <LastKnownVersion>v1.1.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -215,7 +225,7 @@
       </UserModData>
       <UserModData>
         <Id>XorberaxLegacy</Id>
-        <LastKnownVersion>v1.0.5.2</LastKnownVersion>
+        <LastKnownVersion>v1.0.5.4</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -255,7 +265,7 @@
       </UserModData>
       <UserModData>
         <Id>RandomEvents</Id>
-        <LastKnownVersion>v1.1.2.0</LastKnownVersion>
+        <LastKnownVersion>v1.1.3.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -270,7 +280,7 @@
       </UserModData>
       <UserModData>
         <Id>RighteousExecutions</Id>
-        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <LastKnownVersion>v1.1.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -285,7 +295,7 @@
       </UserModData>
       <UserModData>
         <Id>KingdomDestruction</Id>
-        <LastKnownVersion>v1.7.0.0</LastKnownVersion>
+        <LastKnownVersion>v1.7.4.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -340,7 +350,7 @@
       </UserModData>
       <UserModData>
         <Id>SueMoreSpouses</Id>
-        <LastKnownVersion>e1.1.0.1</LastKnownVersion>
+        <LastKnownVersion>e1.1.2.1</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -350,7 +360,7 @@
       </UserModData>
       <UserModData>
         <Id>RealisticWeather</Id>
-        <LastKnownVersion>v1.2.7.0</LastKnownVersion>
+        <LastKnownVersion>v1.3.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -400,7 +410,7 @@
       </UserModData>
       <UserModData>
         <Id>zCulturedStartCitillara</Id>
-        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -419,19 +429,149 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ServeAsSoldier</Id>
-        <LastKnownVersion>v1.1.1.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>LifeInCalradia_Housing</Id>
         <LastKnownVersion>v0.3.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>Spartan</Id>
+        <LastKnownVersion>v1.1.2.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>XorberaxCutThroughEveryone</Id>
+        <LastKnownVersion>e0.3.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.CCsBanners</Id>
+        <LastKnownVersion>v3.2.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>HideoutPlus</Id>
+        <LastKnownVersion>v1.2.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RTSCamera</Id>
+        <LastKnownVersion>v4.1.23.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RandomBodies</Id>
+        <LastKnownVersion>e1.0.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>KingdomPoliticsExpanded</Id>
+        <LastKnownVersion>v1.1.0.3</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>YouKeepWhatYouKill</Id>
+        <LastKnownVersion>v1.0.18.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArtOfWar</Id>
+        <LastKnownVersion>v1.2.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>WarAndAiTweaks</Id>
+        <LastKnownVersion>v1.7.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Artems Animations</Id>
+        <LastKnownVersion>e1.5.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DefendYourself</Id>
+        <LastKnownVersion>v1.3.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SurrenderTweaks</Id>
+        <LastKnownVersion>v1.5.8.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AutoCrossbow</Id>
+        <LastKnownVersion>v1.0.1.5325</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>mosin_nagant_m91</Id>
+        <LastKnownVersion>v1.1.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BastardChildren</Id>
+        <LastKnownVersion>v6.6.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Concubines</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DismembermentPlus</Id>
+        <LastKnownVersion>v2.0.6.4</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PerfectExecutioner</Id>
+        <LastKnownVersion>v1.1.0.12734</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ImmersiveBattlefields</Id>
+        <LastKnownVersion>v2.6.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Aragas.CastleTownWithHorse</Id>
+        <LastKnownVersion>v1.0.9.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ServeAsSoldier</Id>
+        <LastKnownVersion>v1.1.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ServeAsSoldierFix</Id>
+        <LastKnownVersion>v1.0.7.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterSkills</Id>
+        <LastKnownVersion>a1.0.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>GarrisonDoSomething</Id>
+        <LastKnownVersion>v1.3.1.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>ArmsDealer</Id>
         <LastKnownVersion>v4.0.3.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>HotButterFix</Id>
+        <LastKnownVersion>v1.0.4.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticBattleSounds</Id>
+        <LastKnownVersion>v2.9.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>NoMarriageOffersForFemaleMembers</Id>
@@ -449,11 +589,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PowerfulHeroes</Id>
-        <LastKnownVersion>v1.1.5.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RelentlessSmith</Id>
         <LastKnownVersion>v1.0.1.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
@@ -469,28 +604,8 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Knight</Id>
-        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bannerlord.CCsBanners</Id>
-        <LastKnownVersion>v3.2.1.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>NoSafeModePrompt</Id>
         <LastKnownVersion>v1.0.2.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RTSCamera</Id>
-        <LastKnownVersion>v4.1.23.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RTSCamera.CommandSystem</Id>
-        <LastKnownVersion>v4.1.23.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -499,19 +614,9 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>HideoutPlus</Id>
-        <LastKnownVersion>v1.2.3.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>HeroEnhancement</Id>
         <LastKnownVersion>v1.0.0.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bodyguards</Id>
-        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArenaPack</Id>
@@ -519,43 +624,23 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.EncyclopediaExtender</Id>
-        <LastKnownVersion>v1.1.3.0</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>UpgradeUrEquipment</Id>
-        <LastKnownVersion>v1.0.4.0</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ImprovedGarrisons</Id>
-        <LastKnownVersion>v4.1.2.7</LastKnownVersion>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ScatterAroundExpanded</Id>
-        <LastKnownVersion>v2.0.2.0</LastKnownVersion>
+        <LastKnownVersion>v1.0.5.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CharacterManager</Id>
-        <LastKnownVersion>v3.3.1.0</LastKnownVersion>
+        <Id>Bannerlord.FamilyTree</Id>
+        <LastKnownVersion>v1.2.2.1</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>TroopSort</Id>
-        <LastKnownVersion>v1.1.2.3</LastKnownVersion>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Baijin Troops</Id>
-        <LastKnownVersion>i1.0.0.0</LastKnownVersion>
+        <Id>Knight</Id>
+        <LastKnownVersion>v1.0.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>DestroyKingdom</Id>
-        <LastKnownVersion>v0.3.2.0</LastKnownVersion>
+        <Id>Bodyguards</Id>
+        <LastKnownVersion>v1.1.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -564,14 +649,69 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>ImprovedGarrisons</Id>
+        <LastKnownVersion>v4.1.2.9</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DestroyKingdom</Id>
+        <LastKnownVersion>v0.3.2.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CharacterManager</Id>
+        <LastKnownVersion>v3.3.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TroopSort</Id>
+        <LastKnownVersion>v1.1.3.1</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>sy.AdjustableLeveling</Id>
         <LastKnownVersion>v1.1.2.1</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ChooseYourTroops</Id>
+        <Id>RTSCamera.CommandSystem</Id>
+        <LastKnownVersion>v4.1.23.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ScatterAroundExpanded</Id>
+        <LastKnownVersion>v2.0.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Baijin Troops</Id>
         <LastKnownVersion>v1.1.0.0</LastKnownVersion>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ChooseYourTroops</Id>
+        <LastKnownVersion>v1.6.0.0</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>GovernorsHandleIssues</Id>
+        <LastKnownVersion>v1.1.0.1</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Elfskin</Id>
+        <LastKnownVersion>v1.0.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.MoreTraitInfo</Id>
+        <LastKnownVersion>v1.0.2.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BabyGrowthMod</Id>
+        <LastKnownVersion>v1.0.3.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -579,17 +719,14 @@
     <ModDatas>
       <UserModData>
         <Id>Native</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Multiplayer</Id>
-        <LastKnownVersion>v1.1.2.14580</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>DedicatedCustomServerHelper</Id>
-        <LastKnownVersion>v1.1.2.0</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
@@ -1414,6 +1551,144 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>LifeInCalradia_Housing.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.ModuleLoader.Bannerlord.FamilyTree.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>CutThroughEveryone.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.ModuleLoader.YouKeepWhatYouKill.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ArtOfWar.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>WarAndAiTweaks.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>DefendYourself.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SurrenderTweaks.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AutoCrossbow.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>NobleTitlesPlus.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BastardChildren.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Concubines.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>DismembermentPlus.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ServeAsSoldierFix.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>PerfectExecutioner.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Immersive Battlefields.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BetterSkills.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Aragas.CastleTownWithHorse.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>GarrisonDoSomething.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>HotButterFix.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>RealisticBattleSounds.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>GovernorsHandleIssues.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.ModuleLoader.Bannerlord.MoreTraitInfo.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BabyGrowthMod.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

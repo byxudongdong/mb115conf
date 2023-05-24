@@ -6,16 +6,16 @@
   <ToggleMapWhenCommanding>true</ToggleMapWhenCommanding>
   <WidgetWidth>315</WidgetWidth>
   <FollowMode>true</FollowMode>
-  <FollowModeScale>1.00401235</FollowModeScale>
+  <FollowModeScale>0.2521605</FollowModeScale>
   <EnableDynamicScale>true</EnableDynamicScale>
   <HorizontalAlignment>Left</HorizontalAlignment>
   <VerticalAlignment>Top</VerticalAlignment>
   <PositionX>10</PositionX>
   <PositionY>10</PositionY>
   <Resolution>0.5</Resolution>
-  <AgentMarkerScale>1</AgentMarkerScale>
+  <AgentMarkerScale>1.65185189</AgentMarkerScale>
   <EdgeOpacityFactor>1</EdgeOpacityFactor>
-  <BackgroundOpacity>0.753086448</BackgroundOpacity>
+  <BackgroundOpacity>1</BackgroundOpacity>
   <ForegroundOpacity>1</ForegroundOpacity>
   <ExcludeUnwalkableTerrain>true</ExcludeUnwalkableTerrain>
 </BattleMiniMapConfig>

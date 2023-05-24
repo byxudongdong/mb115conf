@@ -1,0 +1,11 @@
+{
+  "DebugMode": false,
+  "HeroLootChance": 100.0,
+  "LootChance": 10.0,
+  "DeathChanceMultiplyer": 1.0,
+  "CompanionChanceMultiplyer": 1.0,
+  "HeroDeathChanceMultiplyer": 1.0,
+  "RequireKills": true,
+  "CompanionLootChance": 100.0,
+  "ClaimCompanionGear": true
+}
