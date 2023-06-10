@@ -3,9 +3,10 @@
   <EnableRecruitmentChange>true</EnableRecruitmentChange>
   <EnableGarrisonCostReduction>true</EnableGarrisonCostReduction>
   <GarrisonCostMultiply>0.2</GarrisonCostMultiply>
+  <SlowDownPenalty>true</SlowDownPenalty>
   <PartySpeedModifications>true</PartySpeedModifications>
   <EnableFillStacks>true</EnableFillStacks>
-  <FillStackTroopCount>3</FillStackTroopCount>
+  <FillStackTroopCount>50</FillStackTroopCount>
   <FillStackMercenaries>true</FillStackMercenaries>
   <EnableMiltiaChange>true</EnableMiltiaChange>
   <CastleMiltiaBoost>1</CastleMiltiaBoost>
@@ -13,10 +14,9 @@
   <EnableBandTogetherLogic>true</EnableBandTogetherLogic>
   <playerKingodmIsIncluded>false</playerKingodmIsIncluded>
   <EnableDeclareWarChanges>true</EnableDeclareWarChanges>
-  <targetPeaceTime>60</targetPeaceTime>
+  <targetPeaceTime>21</targetPeaceTime>
   <EnableDeclarePeaceChanges>true</EnableDeclarePeaceChanges>
   <otherFactionMustWantPeace>true</otherFactionMustWantPeace>
-  <SlowDownPenalty>true</SlowDownPenalty>
   <EnableMilitaryLogicChanges>true</EnableMilitaryLogicChanges>
   <EnableArmyInfluenceChanges>true</EnableArmyInfluenceChanges>
   <EnableRulerInflunceChange>true</EnableRulerInflunceChange>

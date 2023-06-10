@@ -1,11 +1,11 @@
 {
-  "PlotBuyPrice": 8000,
-  "PlotSellPrice": 12000,
-  "ProjectCost": 20000,
+  "PlotBuyPrice": 5000,
+  "PlotSellPrice": 8000,
+  "ProjectCost": 10000,
   "ProjectTime": 1,
-  "LandRentScale": 2.0,
-  "SlaveProductionScale": 2.0,
+  "LandRentScale": 3.0,
+  "SlaveProductionScale": 3.0,
   "SlaveDeclineModifier": 1.0,
-  "UndevelopedPlotBuyPrice": 4000,
-  "UndevelopedPlotSellPrice": 5200
+  "UndevelopedPlotBuyPrice": 3000,
+  "UndevelopedPlotSellPrice": 5000
 }

@@ -1,0 +1,225 @@
+﻿<HotkeysMod configVersion="12" showMenuConversationNumbers="true" hideLockedWeaponsWhenSmelting="true">
+  <LastTownMenuItem hotkey="R" />
+  <SmithingSmelt hotkey="F" />
+  <SmithingSmeltx5 hotkey="Shift+F" />
+  <SmithingSmeltxInfinity hotkey="Ctrl+Shift+F" />
+  <SmithingForge hotkey="F" skipWeaponNaming="true" />
+  <SmithingForgex5 hotkey="Shift+F" />
+  <SmithingForgexInfinity hotkey="Ctrl+Shift+F" />
+  <SmithingRefine hotkey="F" />
+  <SmithingRefinex5 hotkey="Shift+F" />
+  <SmithingRefinexInfinity hotkey="Ctrl+Shift+F" />
+  <CharacterDone hotkey="F" />
+  <CharacterReset hotkey="R" />
+  <PrisonersRecruit hotkey="F" />
+  <PrisonersTake hotkey="F" />
+  <PrisonersDone hotkey="F" />
+  <PrisonersReset hotkey="R" />
+  <PartyDone hotkey="F" />
+  <PartyReset hotkey="R" />
+  <RansomDone hotkey="F" />
+  <RansomReset hotkey="R" />
+  <ManagePrisonersDone hotkey="F" />
+  <ManagePrisonersReset hotkey="R" />
+  <ManageTroopsDone hotkey="F" />
+  <ManageTroopsReset hotkey="R" />
+  <LootTake hotkey="F" />
+  <LootDone hotkey="F" />
+  <LootReset hotkey="R" />
+  <InventoryDone hotkey="F" />
+  <InventoryReset hotkey="R" />
+  <TradeDone hotkey="F" />
+  <TradeReset hotkey="R" />
+  <StashDone hotkey="F" />
+  <StashReset hotkey="R" />
+  <TownVillageRecruitOpen hotkey="F" />
+  <TownVillageRecruit hotkey="F" />
+  <TownVillageRecruitDone hotkey="F" />
+  <TownVillageRecruitReset hotkey="R" />
+  <TournamentMaxBet hotkey="F" />
+  <TournamentSkipRound hotkey="F" />
+  <TournamentSkipAllRounds hotkey="Ctrl+F" />
+  <TournamentJoinRound hotkey="F" />
+  <TournamentLeave hotkey="F" />
+  <BattleScoreboardClose hotkey="F" />
+  <EncyclopediaNavigationBack hotkey="X1MouseButton" />
+  <EncyclopediaNavigationForward hotkey="X2MouseButton" />
+  <BoardGameRollDice hotkey="F" />
+  <PayRespects hotkey="F" costGold="true" />
+  <MenuTournamentLeaderboardClose hotkey="F" />
+  <FormationSelectionConfirmation hotkey="F" />
+  <TownKeepManageClose hotkey="F" />
+  <QuestsDone hotkey="F" />
+  <ClanDone hotkey="F" />
+  <KingdomDone hotkey="F" />
+  <IncreaseArmyCohesion hotkey="G" />
+  <OptionItem01 hotkey="D1" />
+  <OptionItem02 hotkey="D2" />
+  <OptionItem03 hotkey="D3" />
+  <OptionItem04 hotkey="D4" />
+  <OptionItem05 hotkey="D5" />
+  <OptionItem06 hotkey="D6" />
+  <OptionItem07 hotkey="D7" />
+  <OptionItem08 hotkey="D8" />
+  <OptionItem09 hotkey="D9" />
+  <OptionItem10 hotkey="D0" />
+  <OptionItem11 hotkey="Q" />
+  <OptionItem12 hotkey="W" />
+  <OptionItem13 hotkey="E" />
+  <OptionItem14 hotkey="R" />
+  <OptionItem15 hotkey="T" />
+  <OptionItem16 hotkey="Y" />
+  <!--
+How to use:
+Leaving a hotkey blank will disable it.
+Modifiers can be set for all hotkeys: "Shift+F", "Ctrl+F" and "Alt+F". They can also be combined: "Ctrl+Shift+F".
+A default configuration can be created by removing this file and launching the game.
+
+Auto-generated list of valid hotkeys:
+A
+Apostrophe
+B
+BackSlash
+BackSpace
+C
+CapsLock
+CloseBraces
+Comma
+ControllerLBumper
+ControllerLDown
+ControllerLLeft
+ControllerLOption
+ControllerLRight
+ControllerLStick
+ControllerLStickDown
+ControllerLStickLeft
+ControllerLStickRight
+ControllerLStickUp
+ControllerLThumb
+ControllerLTrigger
+ControllerLUp
+ControllerRBumper
+ControllerRDown
+ControllerRLeft
+ControllerROption
+ControllerRRight
+ControllerRStick
+ControllerRStickDown
+ControllerRStickLeft
+ControllerRStickRight
+ControllerRStickUp
+ControllerRThumb
+ControllerRTrigger
+ControllerRUp
+D
+D0
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+Delete
+Down
+E
+End
+Enter
+Equals
+Escape
+Extended
+F
+F1
+F10
+F11
+F12
+F13
+F14
+F15
+F16
+F17
+F18
+F19
+F2
+F20
+F21
+F22
+F23
+F24
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+G
+H
+Home
+I
+Insert
+Invalid
+J
+K
+L
+Left
+LeftAlt
+LeftControl
+LeftMouseButton
+LeftShift
+M
+MiddleMouseButton
+Minus
+MouseScrollDown
+MouseScrollUp
+N
+NumLock
+Numpad0
+Numpad1
+Numpad2
+Numpad3
+Numpad4
+Numpad5
+Numpad6
+Numpad7
+Numpad8
+Numpad9
+NumpadEnter
+NumpadMinus
+NumpadMultiply
+NumpadPeriod
+NumpadPlus
+NumpadSlash
+O
+OpenBraces
+P
+PageDown
+PageUp
+Period
+Q
+R
+Right
+RightAlt
+RightControl
+RightMouseButton
+RightShift
+S
+SemiColon
+Slash
+Space
+T
+Tab
+Tilde
+U
+Up
+V
+W
+X
+X1MouseButton
+X2MouseButton
+Y
+Z
+-->
+</HotkeysMod>

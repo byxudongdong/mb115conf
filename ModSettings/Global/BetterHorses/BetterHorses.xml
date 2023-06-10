@@ -2,7 +2,7 @@
 <MCMSettings>
   <CallKey>Q</CallKey>
   <CommandableMount>false</CommandableMount>
-  <MountsDontRearPlayerOnly>false</MountsDontRearPlayerOnly>
+  <MountsDontRearPlayerOnly>true</MountsDontRearPlayerOnly>
   <MountsDontRear>false</MountsDontRear>
   <MountRegenDamageDelay>1</MountRegenDamageDelay>
   <MountHealthRegenAmount>10</MountHealthRegenAmount>
