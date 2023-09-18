@@ -1,0 +1,6 @@
+{
+  "AllowInDebugger": true,
+  "DisableBewButterlibException": false,
+  "CatchNative2Managed": false,
+  "EnableStdoutConsole": false
+}

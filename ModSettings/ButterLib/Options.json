@@ -4,8 +4,8 @@
   "Object System Enabled": true,
   "MBSubModuleBase extended Enabled": true,
   "Hot Keys Enabled": true,
-  "ExceptionHandler Enabled": false,
-  "ExceptionHandlerSubSystem_DisableWhenDebuggerIsAttached": true,
+  "ExceptionHandler Enabled": true,
+  "ExceptionHandlerSubSystem_DisableWhenDebuggerIsAttached": false,
   "Distance Matrix Enabled": false,
   "CrashUploader Enabled": true
 }

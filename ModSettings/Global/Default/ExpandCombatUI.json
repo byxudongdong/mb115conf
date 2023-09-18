@@ -1,0 +1,15 @@
+{
+  "IsTargetEnemyStatusBars": true,
+  "IsTargetEnemyArmorStatusBars": true,
+  "IsUnitShowName": false,
+  "IsHeroShowName": true,
+  "IsAllyHealthBars": false,
+  "IsEnemyHealthBars": true,
+  "IsHeroHealthBars": true,
+  "HealthBarsDistance": 50,
+  "IsHotkeyToggleDisplay": true,
+  "IsDisplayFps": true,
+  "IsDisplayComputerInfo": true,
+  "IsDisplayBattleInfo": true,
+  "IsPlayerBannerDisplay": false
+}

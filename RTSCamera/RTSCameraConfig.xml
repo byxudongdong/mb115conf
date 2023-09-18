@@ -10,7 +10,7 @@
   <CameraHeightFollowsTerrain>true</CameraHeightFollowsTerrain>
   <IgnoreTerrain>false</IgnoreTerrain>
   <IgnoreBoundaries>false</IgnoreBoundaries>
-  <SlowMotionMode>true</SlowMotionMode>
+  <SlowMotionMode>false</SlowMotionMode>
   <SlowMotionFactor>1</SlowMotionFactor>
   <DisplayMessage>true</DisplayMessage>
   <ControlAllyAfterDeath>true</ControlAllyAfterDeath>

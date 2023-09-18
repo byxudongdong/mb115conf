@@ -2,7 +2,7 @@
 <CommandSystemConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ClickToSelectFormation>true</ClickToSelectFormation>
   <AttackSpecificFormation>true</AttackSpecificFormation>
-  <BehaviorAfterCharge>Hold</BehaviorAfterCharge>
+  <BehaviorAfterCharge>Charge</BehaviorAfterCharge>
   <HighlightSelectedFormation>true</HighlightSelectedFormation>
   <HighlightTargetFormation>true</HighlightTargetFormation>
   <ConfigVersion>1.0</ConfigVersion>

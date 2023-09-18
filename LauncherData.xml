@@ -100,10 +100,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterHUD</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>DrasticBattle</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -256,10 +252,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Leveling_rebalance</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>BattleMiniMap</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -269,10 +261,6 @@
       </UserModData>
       <UserModData>
         <Id>SpecialLoot</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RealisticWeather</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -328,10 +316,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Spartan</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.CCsBanners</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -384,10 +368,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>DismembermentPlus</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>PerfectExecutioner</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -408,15 +388,63 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterSkills</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>GarrisonDoSomething</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>HotButterFix</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TroopSort</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>GovernorsHandleIssues</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Elfskin</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BabyGrowthMod</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BannerLib</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MixMashChineseFantasyArmorPack</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Mix Army</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Mix Unlock</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MolochsDuels</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PlayerSwitcher</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RenameAnySettlement</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RevisitedCastles</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TournamentOfChampions</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Separatism</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -464,38 +492,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.FamilyTree</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Knight</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bodyguards</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MyLittleWarband</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ImprovedGarrisons</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DestroyKingdom</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CharacterManager</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>TroopSort</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>sy.AdjustableLeveling</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -508,19 +504,15 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Baijin Troops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ChooseYourTroops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>GovernorsHandleIssues</Id>
+        <Id>ArmyArrowCounter</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Elfskin</Id>
+        <Id>CharacterManager</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.FamilyTree</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -528,60 +520,96 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BabyGrowthMod</Id>
+        <Id>ImprovedGarrisons</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MyLittleWarband</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Baijin Troops</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DestroyKingdom</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ChooseYourTroops</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bodyguards</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Homesteads</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BannerLib</Id>
+        <Id>CommandFactionParties</Id>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PlayerExecuteEdit</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AIExecutioner</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AIValuesLife</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>WealthyWorkshops</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>OpposeClan</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>LT_Nemesis</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ExpandCombatUI</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterTroopHUD</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AllOneGender</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.AssassinationMod</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>HoldCourt</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Hotkeys</Id>
+        <Id>CinematicCombat</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MixMashChineseFantasyArmorPack</Id>
+        <Id>FixMOD_majimie</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Mix Army</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Mix Unlock</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MolochsDuels</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PlayerSwitcher</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RenameAnySettlement</Id>
+        <Id>ArmsDealer</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RevisitedCastles</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>TournamentOfChampions</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArmyArrowCounter</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Separatism</Id>
-        <IsSelected>true</IsSelected>
+        <Id>ExpandKillLoot</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1617,6 +1645,102 @@
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
       </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Banner Fix.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Homesteads.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>CommandFactionParties.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ExpandCombatUI.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BetterTroopHUD.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.AssassinationMod.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>WealthyWorkshops.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>PlayerExecuteEdit.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AIExecutioner.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AIValuesLife.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AllOneGender.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ImmersiveTroops.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>OpposeClan.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>LT_Nemesis.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FixMOD_majimie.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ExpandKillLoot.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
     </DLLData>
   </DLLCheckData>
   <AutomaticallyCheckForUpdates>false</AutomaticallyCheckForUpdates>
@@ -1627,4 +1751,7 @@
   <BetaSorting>false</BetaSorting>
   <BigMode>false</BigMode>
   <EnableDPIScaling>false</EnableDPIScaling>
+  <DisableCrashHandlerWhenDebuggerIsAttached>false</DisableCrashHandlerWhenDebuggerIsAttached>
+  <DisableCatchAutoGenExceptions>false</DisableCatchAutoGenExceptions>
+  <UseVanillaCrashHandler>false</UseVanillaCrashHandler>
 </UserData>

@@ -15,7 +15,7 @@
   <Resolution>0.5</Resolution>
   <AgentMarkerScale>1.65185189</AgentMarkerScale>
   <EdgeOpacityFactor>1</EdgeOpacityFactor>
-  <BackgroundOpacity>1</BackgroundOpacity>
+  <BackgroundOpacity>0.746913552</BackgroundOpacity>
   <ForegroundOpacity>1</ForegroundOpacity>
   <ExcludeUnwalkableTerrain>true</ExcludeUnwalkableTerrain>
 </BattleMiniMapConfig>

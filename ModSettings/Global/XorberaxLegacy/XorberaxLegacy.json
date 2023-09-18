@@ -66,7 +66,7 @@
   "EnableFriendlyFireMod": true,
   "EnableFriendlyFireTowns": true,
   "ChargeDamageMultiplier": 3.0,
-  "EnableDeadlyHorseChargeMod": true,
+  "EnableDeadlyHorseChargeMod": false,
   "PercentageOfDamageRequiredToKillUnit": 0.65,
   "EnableDeadlyCombatMod": false,
   "UnitHealthPercentageToCauseBleedout": 0.35,

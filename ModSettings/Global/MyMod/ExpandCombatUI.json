@@ -1,0 +1,6 @@
+{
+  "IsEnemyHealthBars": true,
+  "IsAllyHealthBars": false,
+  "IsTargetEnemyStatusBars": true,
+  "HealthBarsDistance": 30
+}
