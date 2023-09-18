@@ -445,7 +445,7 @@
       </UserModData>
       <UserModData>
         <Id>Separatism</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>NoMarriageOffersForFemaleMembers</Id>
@@ -465,7 +465,7 @@
       </UserModData>
       <UserModData>
         <Id>WeaponGapFix</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Mix and match weapon pack</Id>
@@ -501,7 +501,7 @@
       </UserModData>
       <UserModData>
         <Id>ScatterAroundExpanded</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArmyArrowCounter</Id>
@@ -513,7 +513,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.FamilyTree</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.MoreTraitInfo</Id>
@@ -580,6 +580,10 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>FixMOD_majimie</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>BetterTroopHUD</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -597,10 +601,6 @@
       </UserModData>
       <UserModData>
         <Id>CinematicCombat</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>FixMOD_majimie</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
