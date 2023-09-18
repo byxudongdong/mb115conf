@@ -308,6 +308,10 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>HotButterFix</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>WalkersOfCalradia</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -388,10 +392,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>HotButterFix</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>TroopSort</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -429,19 +429,19 @@
       </UserModData>
       <UserModData>
         <Id>PlayerSwitcher</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RenameAnySettlement</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RevisitedCastles</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>TournamentOfChampions</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Separatism</Id>
@@ -449,7 +449,7 @@
       </UserModData>
       <UserModData>
         <Id>NoMarriageOffersForFemaleMembers</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>LongerCraftingParts</Id>
@@ -457,7 +457,7 @@
       </UserModData>
       <UserModData>
         <Id>Heal on Kill</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RelentlessSmith</Id>
