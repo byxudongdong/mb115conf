@@ -100,6 +100,10 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>ExpandCombatUI</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>DrasticBattle</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -453,7 +457,7 @@
       </UserModData>
       <UserModData>
         <Id>LongerCraftingParts</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Heal on Kill</Id>
@@ -461,11 +465,11 @@
       </UserModData>
       <UserModData>
         <Id>RelentlessSmith</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>WeaponGapFix</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Mix and match weapon pack</Id>
@@ -573,10 +577,6 @@
       </UserModData>
       <UserModData>
         <Id>LT_Nemesis</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ExpandCombatUI</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
