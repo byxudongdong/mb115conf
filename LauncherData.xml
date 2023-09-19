@@ -53,7 +53,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.EncyclopediaExtender</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>NobleTitlesPlus</Id>
@@ -517,7 +517,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.FamilyTree</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.MoreTraitInfo</Id>
