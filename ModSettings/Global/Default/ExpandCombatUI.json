@@ -8,8 +8,8 @@
   "IsHeroHealthBars": true,
   "HealthBarsDistance": 50,
   "IsHotkeyToggleDisplay": true,
-  "IsDisplayFps": true,
-  "IsDisplayComputerInfo": true,
+  "IsDisplayFps": false,
+  "IsDisplayComputerInfo": false,
   "IsDisplayBattleInfo": true,
   "IsPlayerBannerDisplay": false
 }
