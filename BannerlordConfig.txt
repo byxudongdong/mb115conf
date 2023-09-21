@@ -2,7 +2,7 @@
 VoiceLanguage=English
 AttackDirectionControl=1
 DefendDirectionControl=0
-NumberOfCorpses=4
+NumberOfCorpses=5
 ShowBlood=False
 DisplayAttackDirection=True
 DisplayTargetingReticule=True
@@ -44,6 +44,6 @@ EnableSingleplayerChatBox=True
 EnableMultiplayerChatBox=True
 ChatBoxSizeX=495
 ChatBoxSizeY=340
-LatestSaveGameName=saveauto2
+LatestSaveGameName=new111
 HideBattleUI=False
 UnitSpawnPrioritization=3

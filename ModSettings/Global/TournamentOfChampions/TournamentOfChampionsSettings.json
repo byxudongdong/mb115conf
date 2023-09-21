@@ -1,0 +1,8 @@
+{
+  "Enabled": true,
+  "TravelEnabled": false,
+  "WeeksWarning": 1,
+  "ChampsNeeded": 6,
+  "MaxBet": 10000,
+  "StartTourneyHere": false
+}

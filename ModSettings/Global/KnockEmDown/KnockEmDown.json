@@ -1,5 +1,5 @@
 {
-  "AIDeactivate": false,
+  "AIDeactivate": true,
   "AICriticalBodyPartsOnly": false,
   "AIChanceKick": 0.3580247,
   "AIChanceProjectile": 0.120370373,

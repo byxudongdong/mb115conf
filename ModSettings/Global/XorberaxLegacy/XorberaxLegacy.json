@@ -74,7 +74,7 @@
   "BleedRateOverride": true,
   "BleedRate": 5.0,
   "EnableAICutThrough": true,
-  "EnableFriendlyUnitsBlockCutThrough": false,
+  "EnableFriendlyUnitsBlockCutThrough": true,
   "EnableCutThroughEveryoneMod": false,
   "EnableOnlyKilledUnitsCutThrough": false,
   "DamageRetainedPerCut": 0.8,

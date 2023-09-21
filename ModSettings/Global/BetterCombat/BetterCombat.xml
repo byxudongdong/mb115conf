@@ -33,9 +33,9 @@
   <PerventFleeing>true</PerventFleeing>
   <CutThroughChance>0.95</CutThroughChance>
   <CutThroughPlayerOnly>true</CutThroughPlayerOnly>
-  <CutThroughActive>true</CutThroughActive>
-  <MutliHitOneHanded>true</MutliHitOneHanded>
-  <MutliHitTwoHanded>true</MutliHitTwoHanded>
+  <CutThroughActive>false</CutThroughActive>
+  <MutliHitOneHanded>false</MutliHitOneHanded>
+  <MutliHitTwoHanded>false</MutliHitTwoHanded>
   <PreventKnockdown>false</PreventKnockdown>
   <ShrugOffBlow>false</ShrugOffBlow>
 </MCMSettings>
