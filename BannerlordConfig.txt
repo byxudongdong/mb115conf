@@ -2,7 +2,7 @@
 VoiceLanguage=English
 AttackDirectionControl=1
 DefendDirectionControl=0
-NumberOfCorpses=5
+NumberOfCorpses=4
 ShowBlood=False
 DisplayAttackDirection=True
 DisplayTargetingReticule=True
