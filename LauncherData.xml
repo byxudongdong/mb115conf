@@ -189,7 +189,7 @@
       </UserModData>
       <UserModData>
         <Id>KnockEmDown</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Cheats</Id>
@@ -257,7 +257,7 @@
       </UserModData>
       <UserModData>
         <Id>SpecialLoot</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>MarryAnyone</Id>
@@ -313,10 +313,6 @@
       </UserModData>
       <UserModData>
         <Id>KingdomPoliticsExpanded</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>YouKeepWhatYouKill</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -469,7 +465,7 @@
       </UserModData>
       <UserModData>
         <Id>ArmyArrowCounter</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>CharacterManager</Id>
@@ -589,7 +585,7 @@
       </UserModData>
       <UserModData>
         <Id>ExpandKillLoot</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>MarryAnyoneUpdated</Id>

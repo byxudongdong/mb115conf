@@ -1,0 +1,18 @@
+{
+  "KillLootIsDisplayHud": true,
+  "KillLootIsDisplayGlod": true,
+  "KillLootMaxCount": 309,
+  "CloseOriginalKillLoot": false,
+  "KillLootUnitRate": 0,
+  "KillLootUnitIsDisplayMsg": false,
+  "KillLootUnitMaxCount": 1,
+  "KillLootHeroRate": 10,
+  "KillLootHeroIsDisplayMsg": true,
+  "KillLootHeroMaxCount": 1,
+  "KillLootCompanionRate": 10,
+  "KillLootCompanionIsDisplayMsg": true,
+  "KillLootCompanionMaxCount": 1,
+  "KillLootPlayerRate": 50,
+  "KillLootPlayerIsDisplayMsg": true,
+  "KillLootPlayerMaxCount": 3
+}
