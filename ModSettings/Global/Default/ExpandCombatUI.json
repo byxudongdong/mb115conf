@@ -9,7 +9,7 @@
   "HealthBarsDistance": 50,
   "IsHotkeyToggleDisplay": true,
   "IsDisplayFps": false,
-  "IsDisplayComputerInfo": false,
+  "IsDisplayComputerInfo": true,
   "IsDisplayBattleInfo": true,
   "IsPlayerBannerDisplay": false
 }
