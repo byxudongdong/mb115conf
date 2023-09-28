@@ -464,16 +464,16 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ArmyArrowCounter</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CharacterManager</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.MoreTraitInfo</Id>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArmyArrowCounter</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>WarAndAiTweaks</Id>
