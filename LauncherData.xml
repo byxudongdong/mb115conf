@@ -476,11 +476,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>WarAndAiTweaks</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Bannerlord.FamilyTree</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.FamilyTree</Id>
+        <Id>WarAndAiTweaks</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -564,16 +564,12 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.AssassinationMod</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>HoldCourt</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CinematicCombat</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Bannerlord.AssassinationMod</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArmsDealer</Id>
@@ -588,20 +584,20 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.BannerCraft</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>FengChenqiang</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MarryJoinPlayerClan</Id>
-        <IsSelected>true</IsSelected>
+        <Id>Bannerlord.BannerCraft</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PregnancySettings</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MarryJoinPlayerClan</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1753,6 +1749,12 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>PregnancySettings.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MixMashChineseFantasyArmorPack.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

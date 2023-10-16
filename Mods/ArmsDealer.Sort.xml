@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PartyScreenConfig>
+  <Options>
+    <Version>1.02</Version>
+    <ExtraSettings>
+      <GeneralLog>true</GeneralLog>
+      <RecruitByDefault>true</RecruitByDefault>
+      <CategoryNumbers>false</CategoryNumbers>
+      <HalfHalfUpgrades>false</HalfHalfUpgrades>
+      <SeparateSortingProfiles>true</SeparateSortingProfiles>
+      <AutomaticSorting>false</AutomaticSorting>
+      <KeepHeroesOnTop>true</KeepHeroesOnTop>
+      <ShouldShowCompletePartyNumber>false</ShouldShowCompletePartyNumber>
+      <UpgradeTooltips>true</UpgradeTooltips>
+      <PartySorter p2:type="TypeComparer" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+        <Descending>false</Descending>
+        <SecondarySort p2:type="TrueTierComparer">
+          <Descending>true</Descending>
+          <SecondarySort p2:type="AlphabetComparer">
+            <Descending>false</Descending>
+          </SecondarySort>
+        </SecondarySort>
+      </PartySorter>
+      <PrisonerSorter p2:type="TypeComparer" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+        <Descending>false</Descending>
+        <SecondarySort p2:type="TrueTierComparer">
+          <Descending>true</Descending>
+          <SecondarySort p2:type="AlphabetComparer">
+            <Descending>false</Descending>
+          </SecondarySort>
+        </SecondarySort>
+      </PrisonerSorter>
+      <GarrisonSorter p2:type="TypeComparer" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+        <Descending>false</Descending>
+        <SecondarySort p2:type="TrueTierComparer">
+          <Descending>true</Descending>
+          <SecondarySort p2:type="AlphabetComparer">
+            <Descending>false</Descending>
+          </SecondarySort>
+        </SecondarySort>
+      </GarrisonSorter>
+    </ExtraSettings>
+  </Options>
+  <UpgradePaths />
+  <PrisonersToRecruit />
+</PartyScreenConfig>

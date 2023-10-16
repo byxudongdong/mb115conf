@@ -6,7 +6,7 @@
   "IsAllyHealthBars": false,
   "IsEnemyHealthBars": true,
   "IsHeroHealthBars": true,
-  "HealthBarsDistance": 50,
+  "HealthBarsDistance": 30,
   "IsHotkeyToggleDisplay": true,
   "IsDisplayFps": false,
   "IsDisplayComputerInfo": true,
