@@ -572,10 +572,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ArmsDealer</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ExpandKillLoot</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -593,7 +589,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.BannerCraft</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PregnancySettings</Id>
@@ -604,11 +600,27 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BanditsRogueryXP</Id>
+        <Id>LevellingCustomizer</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>LevellingCustomizer</Id>
+        <Id>BanditsRogueryXP</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MordhauVoices</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticCombatSounds</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArmsDealer</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CallHorse</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
@@ -1785,6 +1797,18 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>UnlockT7_T13.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>RealisticCombatSounds.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>CallHorse.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

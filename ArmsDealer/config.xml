@@ -6,8 +6,8 @@
   <BuyTroopsRate>0</BuyTroopsRate>
   <BloodResume>0.1</BloodResume>
   <HasChildrenLimit>true</HasChildrenLimit>
-  <RebuildCooldown>8</RebuildCooldown>
-  <DonateCooldown>8</DonateCooldown>
+  <RebuildCooldown>1</RebuildCooldown>
+  <DonateCooldown>1</DonateCooldown>
   <AddMoneyToLord>5</AddMoneyToLord>
   <SkipMainTask>false</SkipMainTask>
   <FakeTournamaent>true</FakeTournamaent>
