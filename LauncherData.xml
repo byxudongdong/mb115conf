@@ -48,10 +48,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.EncyclopediaExtender</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>AdonnaysTroopChanger</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -65,6 +61,10 @@
       </UserModData>
       <UserModData>
         <Id>T7TroopUnlocker</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.EncyclopediaExtender</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -184,12 +184,12 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>EquipBestItem</Id>
+        <Id>BetterCombat</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterCombat</Id>
-        <IsSelected>true</IsSelected>
+        <Id>EquipBestItem</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>KnockEmDown</Id>
@@ -553,7 +553,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.EncyclopediaFilters</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>DrasticBattle</Id>
@@ -588,8 +588,20 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.BannerCraft</Id>
+        <Id>BanditsRogueryXP</Id>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MordhauVoices</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArmsDealer</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.BannerCraft</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PregnancySettings</Id>
@@ -604,23 +616,15 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BanditsRogueryXP</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MordhauVoices</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RealisticCombatSounds</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArmsDealer</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>CallHorse</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AttributeAdjustment</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
@@ -1809,6 +1813,12 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>CallHorse.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AttributeAdjustment.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
