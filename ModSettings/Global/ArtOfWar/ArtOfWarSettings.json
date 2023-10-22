@@ -1,0 +1,9 @@
+{
+  "MESSAGES": false,
+  "MEMBER_TROOPS": 100,
+  "REQUIRE_HEALTHY": true,
+  "ENABLE_SALLY": false,
+  "SALLY_RANGE": 8.0,
+  "ADJUST_ATTACKER_STRENGTH": 0.1,
+  "GARRISON_HOURS": 48.0
+}

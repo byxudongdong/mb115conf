@@ -1,0 +1,18 @@
+{
+  "NoMaterialsRequired": false,
+  "NoStaminaRequired": false,
+  "NoSkillRequired": false,
+  "PoorChanceIncrease": 0.1,
+  "InferiorChanceIncrease": 0.2,
+  "CommonChanceIncrease": 0.2,
+  "FineChanceIncrease": 0.2,
+  "MasterworkChanceIncrease": 0.2,
+  "LegendaryChanceIncrease": 0.1,
+  "AllowCraftingNormalWeapons": true,
+  "AllowSmeltingOtherItems": true,
+  "SkillOverDifficultyBeforeNoPenalty": 25,
+  "CraftingCostModifier": 1.0,
+  "DefaultSmeltingModel": false,
+  "UseOldModifierBehaviour": false,
+  "MaximumBotchChance": 0.95
+}

@@ -1,5 +1,5 @@
 {
-  "MinLogLevel": 2,
+  "MinLogLevel": 1,
   "Save System Enabled": true,
   "Object System Enabled": true,
   "MBSubModuleBase extended Enabled": true,

@@ -1,4 +1,4 @@
-number_of_ragdolls = 5
+number_of_ragdolls = 3
 max_simultaneous_sound_event_count = 3
 invert_mouse = 0
 foliage_quality = 3
@@ -60,7 +60,7 @@ sound_occlusion = 1
 weapon_trail_amount = 1.0000
 display_refresh_rate = 120.0000
 master_volume = 1.0000
-music_volume = 0.3488
+music_volume = 0.2994
 voice_chat_volume = 1.0000
 sound_volume = 1.0000
 voice_over_volume = 1.0000

@@ -116,10 +116,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>KaosesTweaks</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.Diplomacy</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -380,14 +376,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Mix Army</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Mix Unlock</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>MolochsDuels</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -432,6 +420,14 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>Mix Army</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Mix Unlock</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>NoSafeModePrompt</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -449,10 +445,6 @@
       </UserModData>
       <UserModData>
         <Id>UpgradeUrEquipment</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>sy.AdjustableLeveling</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -540,10 +532,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>LT_Nemesis</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>FixMOD_majimie</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -573,7 +561,7 @@
       </UserModData>
       <UserModData>
         <Id>ExpandKillLoot</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>MarryAnyoneUpdated</Id>
@@ -600,6 +588,18 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>LT_Nemesis</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>KaosesTweaks</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>sy.AdjustableLeveling</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>Bannerlord.BannerCraft</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -616,16 +616,16 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticCombatSounds</Id>
+        <Id>AttributeAdjustment</Id>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticCombatSounds</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>CallHorse</Id>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AttributeAdjustment</Id>
-        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>

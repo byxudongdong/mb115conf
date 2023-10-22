@@ -59,11 +59,11 @@
   <XuelifeiManeuver>100</XuelifeiManeuver>
   <XuelifeiChargeDamage>40</XuelifeiChargeDamage>
   <XuelifeiSpeed>90</XuelifeiSpeed>
-  <DaoliWeight>460</DaoliWeight>
+  <DaoliWeight>500</DaoliWeight>
   <DaoliHitPoints>200</DaoliHitPoints>
   <DaoliManeuver>100</DaoliManeuver>
   <DaoliChargeDamage>40</DaoliChargeDamage>
-  <DaoliSpeed>90</DaoliSpeed>
+  <DaoliSpeed>82</DaoliSpeed>
   <HorceArmorBodyArmor>150</HorceArmorBodyArmor>
   <HorceArmorBodyArmor1>150</HorceArmorBodyArmor1>
   <TroopGender>true</TroopGender>

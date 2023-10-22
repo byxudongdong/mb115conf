@@ -1,5 +1,5 @@
 {
   "ShowTroopStatsWidget": true,
-  "ShowWidgetMarkers": false,
-  "UpdateRate": 5.0
+  "ShowWidgetMarkers": true,
+  "UpdateRate": 3.0
 }
