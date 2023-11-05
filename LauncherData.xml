@@ -176,24 +176,8 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>TakeBoth</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>BetterCombat</Id>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>EquipBestItem</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>KnockEmDown</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Cheats</Id>
-        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Fourberie</Id>
@@ -380,14 +364,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PlayerSwitcher</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RenameAnySettlement</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RevisitedCastles</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -472,7 +448,15 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>WarAndAiTweaks</Id>
+        <Id>PlayerSwitcher</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RenameAnySettlement</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Cheats</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -492,15 +476,15 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>DestroyKingdom</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ChooseYourTroops</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bodyguards</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ExpandKillLoot</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -540,35 +524,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.EncyclopediaFilters</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DrasticBattle</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AllOneGender</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>HoldCourt</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.AssassinationMod</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ExpandKillLoot</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>MarryAnyoneUpdated</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>FengChenqiang</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -588,10 +548,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>LT_Nemesis</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>KaosesTweaks</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -600,15 +556,27 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>RealisticCombatSounds</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CallHorse</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bloodlust</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>luoyang</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PeasantRevenge</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>Bannerlord.BannerCraft</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PregnancySettings</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MarryJoinPlayerClan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -620,12 +588,8 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticCombatSounds</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CallHorse</Id>
-        <IsSelected>true</IsSelected>
+        <Id>Repeating Crossbow TROOP SEIGE VERSION - BM168</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1819,6 +1783,18 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>AttributeAdjustment.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bloodlust.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>PeasantRevenge.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

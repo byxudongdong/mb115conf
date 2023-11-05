@@ -3,7 +3,7 @@
   <UseFreeCameraByDefault>false</UseFreeCameraByDefault>
   <RaisedHeight>10</RaisedHeight>
   <PlayerControllerInFreeCamera>1</PlayerControllerInFreeCamera>
-  <PlayerFormation>2</PlayerFormation>
+  <PlayerFormation>8</PlayerFormation>
   <AlwaysSetPlayerFormation>false</AlwaysSetPlayerFormation>
   <AutoSetPlayerFormation>Always</AutoSetPlayerFormation>
   <ConstantSpeed>false</ConstantSpeed>
@@ -21,7 +21,7 @@
   <DisableDeathHotkeyEnabled>false</DisableDeathHotkeyEnabled>
   <SwitchTeamHotkeyEnabled>false</SwitchTeamHotkeyEnabled>
   <LimitCameraDistance>false</LimitCameraDistance>
-  <CameraDistanceLimitFactor>1</CameraDistanceLimitFactor>
+  <CameraDistanceLimitFactor>0.8055556</CameraDistanceLimitFactor>
   <OrderUIClickable>true</OrderUIClickable>
   <FixCompanionFormation>true</FixCompanionFormation>
   <ConfigVersion>1.7</ConfigVersion>

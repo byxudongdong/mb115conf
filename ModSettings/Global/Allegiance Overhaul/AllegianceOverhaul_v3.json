@@ -14,7 +14,7 @@
   "HarmonyCheckupIgnoreList": "",
   "InfluenceToDenars": 1000,
   "FixMinorFactionVassals": false,
-  "UseAdvancedHeroTooltips": false,
+  "UseAdvancedHeroTooltips": true,
   "PoliticsRebalanceScope": 0,
   "UsePoliticsRebalance": false,
   "UseElectionRebalance": false,

@@ -12,10 +12,10 @@
       <KeepHeroesOnTop>true</KeepHeroesOnTop>
       <ShouldShowCompletePartyNumber>false</ShouldShowCompletePartyNumber>
       <UpgradeTooltips>true</UpgradeTooltips>
-      <PartySorter p2:type="TypeComparer" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
-        <Descending>false</Descending>
-        <SecondarySort p2:type="TrueTierComparer">
-          <Descending>true</Descending>
+      <PartySorter p2:type="TrueTierComparer" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+        <Descending>true</Descending>
+        <SecondarySort p2:type="TypeComparer">
+          <Descending>false</Descending>
           <SecondarySort p2:type="AlphabetComparer">
             <Descending>false</Descending>
           </SecondarySort>

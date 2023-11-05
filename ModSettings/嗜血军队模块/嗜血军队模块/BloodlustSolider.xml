@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FluentGlobalSettings>
+  <EnemySoliderNoRunning>true</EnemySoliderNoRunning>
+  <soliderCombatEnable>true</soliderCombatEnable>
+  <FriendlyPromotion>false</FriendlyPromotion>
+  <EnemyPromotion>false</EnemyPromotion>
+  <PromotionProbability>0</PromotionProbability>
+  <PromotionLevel>0</PromotionLevel>
+  <soliderPromotionEnable>false</soliderPromotionEnable>
+  <soliderHealthLimit>1</soliderHealthLimit>
+  <soliderArmor>1</soliderArmor>
+  <soliderSkill>1</soliderSkill>
+  <applyFriendlySolider>false</applyFriendlySolider>
+  <applyEnemySolider>false</applyEnemySolider>
+  <soliderHealthIncreaseEnable>false</soliderHealthIncreaseEnable>
+</FluentGlobalSettings>
