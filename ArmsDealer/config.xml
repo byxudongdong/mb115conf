@@ -4,7 +4,7 @@
   <DeclineAttackNum>5</DeclineAttackNum>
   <AddXpExpRate>0</AddXpExpRate>
   <BuyTroopsRate>0</BuyTroopsRate>
-  <BloodResume>0.1</BloodResume>
+  <BloodResume>0</BloodResume>
   <HasChildrenLimit>true</HasChildrenLimit>
   <RebuildCooldown>1</RebuildCooldown>
   <DonateCooldown>1</DonateCooldown>

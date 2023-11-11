@@ -27,7 +27,7 @@
   <equipmentExclude>专属，特殊</equipmentExclude>
   <equipmentMount>false</equipmentMount>
   <equipmentThrowingByEmpty>true</equipmentThrowingByEmpty>
-  <increaseGold>100</increaseGold>
+  <increaseGold>20</increaseGold>
   <increaseGoldEnable>true</increaseGoldEnable>
   <enableGoldLog>true</enableGoldLog>
   <increaseMountHealth>5</increaseMountHealth>
@@ -47,11 +47,11 @@
   <increaseAttribute>100</increaseAttribute>
   <increaseAttributeEnable>true</increaseAttributeEnable>
   <increaseAttributeAmount>1</increaseAttributeAmount>
-  <increaseFocus>30</increaseFocus>
-  <attributeLimit>20</attributeLimit>
-  <focusLimit>20</focusLimit>
+  <increaseFocus>50</increaseFocus>
+  <attributeLimit>30</attributeLimit>
+  <focusLimit>30</focusLimit>
   <skillLimit>900</skillLimit>
-  <increaseSkillLearningRate>30</increaseSkillLearningRate>
+  <increaseSkillLearningRate>300</increaseSkillLearningRate>
   <autoAllocateAttributeFocus>true</autoAllocateAttributeFocus>
   <autoAllocateRate>70</autoAllocateRate>
   <enableTwoPerk>true</enableTwoPerk>
@@ -66,9 +66,9 @@
   <partySpeed>50</partySpeed>
   <partyView>50</partyView>
   <troopEnable>true</troopEnable>
-  <troopNumber>30</troopNumber>
-  <companionNumber>30</companionNumber>
-  <prisonerNumber>30</prisonerNumber>
+  <troopNumber>50</troopNumber>
+  <companionNumber>50</companionNumber>
+  <prisonerNumber>50</prisonerNumber>
   <troopTierNumber>200</troopTierNumber>
   <decreaseAge>1</decreaseAge>
   <minAge>18</minAge>

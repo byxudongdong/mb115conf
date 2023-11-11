@@ -65,7 +65,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.EncyclopediaExtender</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>GT_CarbonBody</Id>
@@ -589,6 +589,10 @@
       </UserModData>
       <UserModData>
         <Id>Repeating Crossbow TROOP SEIGE VERSION - BM168</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>456</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
