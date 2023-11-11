@@ -4,14 +4,14 @@
   <ShowMap>true</ShowMap>
   <EnableToggleMapLongPressKey>true</EnableToggleMapLongPressKey>
   <ToggleMapWhenCommanding>true</ToggleMapWhenCommanding>
-  <WidgetWidth>315</WidgetWidth>
+  <WidgetWidth>278</WidgetWidth>
   <FollowMode>true</FollowMode>
   <FollowModeScale>0.386419773</FollowModeScale>
   <EnableDynamicScale>true</EnableDynamicScale>
   <HorizontalAlignment>Left</HorizontalAlignment>
   <VerticalAlignment>Top</VerticalAlignment>
-  <PositionX>10</PositionX>
-  <PositionY>10</PositionY>
+  <PositionX>0</PositionX>
+  <PositionY>0</PositionY>
   <Resolution>0.5</Resolution>
   <AgentMarkerScale>1.65185189</AgentMarkerScale>
   <EdgeOpacityFactor>1</EdgeOpacityFactor>

@@ -65,7 +65,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.EncyclopediaExtender</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>GT_CarbonBody</Id>
@@ -449,7 +449,7 @@
       </UserModData>
       <UserModData>
         <Id>PlayerSwitcher</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RenameAnySettlement</Id>
@@ -544,10 +544,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ArmsDealer</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>KaosesTweaks</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -576,6 +572,10 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>ArmsDealer</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>Bannerlord.BannerCraft</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -594,6 +594,14 @@
       <UserModData>
         <Id>456</Id>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>EquipBestItem</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>LT_Nemesis</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
