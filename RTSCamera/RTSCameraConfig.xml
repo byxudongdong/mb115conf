@@ -20,7 +20,7 @@
   <IgnoreRetreatingTroops>true</IgnoreRetreatingTroops>
   <DisableDeathHotkeyEnabled>false</DisableDeathHotkeyEnabled>
   <SwitchTeamHotkeyEnabled>false</SwitchTeamHotkeyEnabled>
-  <LimitCameraDistance>false</LimitCameraDistance>
+  <LimitCameraDistance>true</LimitCameraDistance>
   <CameraDistanceLimitFactor>0.8055556</CameraDistanceLimitFactor>
   <OrderUIClickable>true</OrderUIClickable>
   <FixCompanionFormation>true</FixCompanionFormation>
