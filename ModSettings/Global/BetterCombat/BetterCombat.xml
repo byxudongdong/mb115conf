@@ -33,7 +33,7 @@
   <PerventFleeing>true</PerventFleeing>
   <CutThroughChance>0.7</CutThroughChance>
   <CutThroughPlayerOnly>false</CutThroughPlayerOnly>
-  <CutThroughActive>true</CutThroughActive>
+  <CutThroughActive>false</CutThroughActive>
   <MutliHitOneHanded>true</MutliHitOneHanded>
   <MutliHitTwoHanded>true</MutliHitTwoHanded>
   <PreventKnockdown>false</PreventKnockdown>

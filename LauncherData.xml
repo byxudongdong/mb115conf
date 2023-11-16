@@ -552,10 +552,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticCombatSounds</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CallHorse</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -573,6 +569,10 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.BannerCraft</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticCombatSounds</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -584,12 +584,12 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Repeating Crossbow TROOP SEIGE VERSION - BM168</Id>
+        <Id>456</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>456</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Repeating Crossbow TROOP SEIGE VERSION - BM168</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>EquipBestItem</Id>
@@ -601,15 +601,11 @@
       </UserModData>
       <UserModData>
         <Id>Adoption</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ClanCommanders</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>DontWantYourEldestMember</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>EnhancedBattleTest</Id>
@@ -620,8 +616,28 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PregnancySettings</Id>
+        <Id>ClanCommanders</Id>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TalesOfHeroes</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PregnancySettings</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FQ_CZJQ</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticCombatSoundsV2</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Taverns_extended</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1857,6 +1873,18 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>KingdomStrategiesCommand.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FQ_CZJQ.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>TalesOfHeroes.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

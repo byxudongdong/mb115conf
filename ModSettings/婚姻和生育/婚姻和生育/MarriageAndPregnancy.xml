@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FluentGlobalSettings>
+  <ChildBecomeHuman>false</ChildBecomeHuman>
+  <ChildBecomeHumanDetail>3</ChildBecomeHumanDetail>
+  <PrisonPregnancyEnable>true</PrisonPregnancyEnable>
+  <PrionPregnancyProbability>0.1</PrionPregnancyProbability>
+  <PrisonOnlyPlayerParty>false</PrisonOnlyPlayerParty>
+  <EnablePregnancyModify>true</EnablePregnancyModify>
+  <MainHeroProbability>0.5</MainHeroProbability>
+  <MainHeroClanProbability>0.5</MainHeroClanProbability>
+  <OtherHeroProbability>0.5</OtherHeroProbability>
+  <MinPregnancyAge>18</MinPregnancyAge>
+  <MaxPregnancyAge>45</MaxPregnancyAge>
+  <PregnancyDurationInDays>36</PregnancyDurationInDays>
+  <MaternalMortalityProbabilityInLabor>1.5</MaternalMortalityProbabilityInLabor>
+  <StillbirthProbability>1</StillbirthProbability>
+  <DeliveringFemaleOffspringProbability>75</DeliveringFemaleOffspringProbability>
+  <DeliveringTwinsProbability>3</DeliveringTwinsProbability>
+  <BaseMarriageProbability>0.2</BaseMarriageProbability>
+  <IgnoreKingdom>false</IgnoreKingdom>
+  <IgnoreClan>false</IgnoreClan>
+  <MinimumMarriageAgeFeMale>18</MinimumMarriageAgeFeMale>
+  <MinimumMarriageAgeMale>18</MinimumMarriageAgeMale>
+  <AllowMoreSpouse>false</AllowMoreSpouse>
+  <AllowRelatedMarriage>false</AllowRelatedMarriage>
+  <AllowSameGender>false</AllowSameGender>
+  <JoinPlayerClan>true</JoinPlayerClan>
+  <firstRun>true</firstRun>
+</FluentGlobalSettings>
