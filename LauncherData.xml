@@ -572,14 +572,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticCombatSounds</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>LevellingCustomizer</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>AttributeAdjustment</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -621,7 +613,7 @@
       </UserModData>
       <UserModData>
         <Id>TalesOfHeroes</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PregnancySettings</Id>
