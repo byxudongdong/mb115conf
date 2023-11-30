@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MCSISettings>
-  <MaxSize>150</MaxSize>
-  <MinSize>70</MinSize>
-  <IsUniformScaling>true</IsUniformScaling>
+  <MaxSize>200</MaxSize>
+  <MinSize>50</MinSize>
+  <IsUniformScaling>false</IsUniformScaling>
 </MCSISettings>

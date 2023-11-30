@@ -64,10 +64,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.EncyclopediaExtender</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>GT_CarbonBody</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -376,23 +372,7 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>NoMarriageOffersForFemaleMembers</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>LongerCraftingParts</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Heal on Kill</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RelentlessSmith</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Mix and match weapon pack</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -404,88 +384,12 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>NoSafeModePrompt</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>zzy.ExtraLevelUp</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>HeroEnhancement</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArenaPack</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>UpgradeUrEquipment</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RTSCamera.CommandSystem</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ScatterAroundExpanded</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CharacterManager</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bannerlord.MoreTraitInfo</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArmyArrowCounter</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bannerlord.FamilyTree</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>PlayerSwitcher</Id>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RenameAnySettlement</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Cheats</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ImprovedGarrisons</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>WeaponGapFix</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MyLittleWarband</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Baijin Troops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ChooseYourTroops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bodyguards</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ExpandKillLoot</Id>
-        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Homesteads</Id>
@@ -512,23 +416,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>OpposeClan</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>FixMOD_majimie</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterTroopHUD</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.AssassinationMod</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MarryAnyoneUpdated</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -548,15 +440,7 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>sy.AdjustableLeveling</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CallHorse</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bloodlust</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -570,14 +454,6 @@
       <UserModData>
         <Id>Bannerlord.BannerCraft</Id>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AttributeAdjustment</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>456</Id>
-        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Repeating Crossbow TROOP SEIGE VERSION - BM168</Id>
@@ -600,6 +476,42 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>PregnancySettings</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticCombatSoundsV2</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Arenas_extended</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Taverns_extended</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bloodlust</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TalesOfHeroes</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FQ_BarMatchmaker</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FQ_CZJQ</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RenameAnySettlement</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>EnhancedBattleTest</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -612,24 +524,12 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>TalesOfHeroes</Id>
-        <IsSelected>true</IsSelected>
+        <Id>MoreRaiding</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PregnancySettings</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>FQ_CZJQ</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RealisticCombatSoundsV2</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Taverns_extended</Id>
-        <IsSelected>true</IsSelected>
+        <Id>RBM</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1881,6 +1781,30 @@
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
       </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MoreRaiding.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FQ_Class2.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>RBM.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FQ_BarMatchmaker.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
     </DLLData>
   </DLLCheckData>
   <AutomaticallyCheckForUpdates>false</AutomaticallyCheckForUpdates>
@@ -1889,7 +1813,7 @@
   <DisableBinaryCheck>false</DisableBinaryCheck>
   <HideRandomImage>false</HideRandomImage>
   <BetaSorting>false</BetaSorting>
-  <BigMode>false</BigMode>
+  <BigMode>true</BigMode>
   <EnableDPIScaling>false</EnableDPIScaling>
   <DisableCrashHandlerWhenDebuggerIsAttached>false</DisableCrashHandlerWhenDebuggerIsAttached>
   <DisableCatchAutoGenExceptions>false</DisableCatchAutoGenExceptions>

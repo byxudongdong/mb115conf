@@ -3,7 +3,7 @@
   "IsTargetEnemyArmorStatusBars": true,
   "IsUnitShowName": false,
   "IsHeroShowName": true,
-  "IsAllyHealthBars": false,
+  "IsAllyHealthBars": true,
   "IsEnemyHealthBars": true,
   "IsHeroHealthBars": true,
   "HealthBarsDistance": 30,
