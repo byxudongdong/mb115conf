@@ -64,10 +64,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.EncyclopediaExtender</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>GT_CarbonBody</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -93,10 +89,6 @@
       </UserModData>
       <UserModData>
         <Id>ChineseIntegrationPack</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CharacterReload</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -645,6 +637,26 @@
       </UserModData>
       <UserModData>
         <Id>RBM</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterSkills</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FQ_JZJQ</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.EncyclopediaExtender</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.EncyclopediaFilters</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CharacterReload</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
@@ -1921,13 +1933,25 @@
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
       </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FQ_JZJQ.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FQ_Class3.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
     </DLLData>
   </DLLCheckData>
   <AutomaticallyCheckForUpdates>false</AutomaticallyCheckForUpdates>
   <FixCommonIssues>false</FixCommonIssues>
   <CompactModuleList>false</CompactModuleList>
   <DisableBinaryCheck>false</DisableBinaryCheck>
-  <HideRandomImage>false</HideRandomImage>
+  <HideRandomImage>true</HideRandomImage>
   <BetaSorting>false</BetaSorting>
   <BigMode>true</BigMode>
   <EnableDPIScaling>false</EnableDPIScaling>

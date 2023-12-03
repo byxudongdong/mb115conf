@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BabyGrowthSettings>
+  <NewGrowthRate>5</NewGrowthRate>
+  <TeenagerAge>13</TeenagerAge>
+  <AdultAge>18</AdultAge>
+</BabyGrowthSettings>

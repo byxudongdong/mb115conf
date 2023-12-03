@@ -4,7 +4,7 @@
   <TroopHealthAthletics>0.5</TroopHealthAthletics>
   <TroopPercentHealthPerLevel>false</TroopPercentHealthPerLevel>
   <TroopPercent>0.01</TroopPercent>
-  <TroopFlatAmount>5</TroopFlatAmount>
+  <TroopFlatAmount>3</TroopFlatAmount>
   <TroopFlatHealthPerLevel>true</TroopFlatHealthPerLevel>
   <HeroPercentHealthPerLevel>false</HeroPercentHealthPerLevel>
   <HeroPercent>0.01</HeroPercent>
