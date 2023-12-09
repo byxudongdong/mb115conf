@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FluentGlobalSettings>
   <settlement>false</settlement>
-  <settlementSecurity>100</settlementSecurity>
-  <settlementProsperity>100</settlementProsperity>
-  <settlementFood>100</settlementFood>
-  <settlementGarrison>100</settlementGarrison>
+  <settlementSecurity>0</settlementSecurity>
+  <settlementProsperity>50</settlementProsperity>
+  <settlementFood>20</settlementFood>
+  <settlementGarrison>5</settlementGarrison>
   <settlementHearths>100</settlementHearths>
-  <settlementLoyalty>100</settlementLoyalty>
-  <settlementMilitia>100</settlementMilitia>
+  <settlementLoyalty>0</settlementLoyalty>
+  <settlementMilitia>10</settlementMilitia>
   <siegeBuildingSpeedMultiplier>1</siegeBuildingSpeedMultiplier>
   <neverRequireCivilianEquipment>false</neverRequireCivilianEquipment>
   <disguiseAlwaysWorks>false</disguiseAlwaysWorks>
@@ -20,7 +20,7 @@
   <enemyHeroDeadNeedKill>80</enemyHeroDeadNeedKill>
   <enemyHeroDeadApplyMale>true</enemyHeroDeadApplyMale>
   <enemyHeroDeadApplyFeMale>false</enemyHeroDeadApplyFeMale>
-  <heroSwitch>true</heroSwitch>
+  <heroSwitch>false</heroSwitch>
   <heroSwitchKey>18</heroSwitchKey>
   <heroDeadChange>true</heroDeadChange>
   <equipmentProbability>50</equipmentProbability>
@@ -31,15 +31,15 @@
   <onlyAddItem>false</onlyAddItem>
   <increaseGold>50</increaseGold>
   <increaseGoldEnable>true</increaseGoldEnable>
-  <enableGoldLog>true</enableGoldLog>
+  <enableGoldLog>false</enableGoldLog>
   <increaseMountHealth>25</increaseMountHealth>
   <regenerateMountHealth>1</regenerateMountHealth>
   <regenerateMountChargeDamage>50</regenerateMountChargeDamage>
   <increaseMountEnable>true</increaseMountEnable>
   <enableMountHealthLimitLog>true</enableMountHealthLimitLog>
-  <influenceIncrease>2</influenceIncrease>
+  <influenceIncrease>1</influenceIncrease>
   <increaseInfluenceEnable>false</increaseInfluenceEnable>
-  <renownIncrease>2</renownIncrease>
+  <renownIncrease>1</renownIncrease>
   <EnableInfluenceIncreaseLog>false</EnableInfluenceIncreaseLog>
   <increaseAmmoEnable>true</increaseAmmoEnable>
   <increaseArrow>20</increaseArrow>
@@ -75,7 +75,7 @@
   <decreaseAge>1</decreaseAge>
   <minAge>18</minAge>
   <decreaseAgeEnable>true</decreaseAgeEnable>
-  <enableAgeDecreaseLog>true</enableAgeDecreaseLog>
+  <enableAgeDecreaseLog>false</enableAgeDecreaseLog>
   <needKillCount>50</needKillCount>
   <increaseHealthLimit>5</increaseHealthLimit>
   <regenerateHealth>1</regenerateHealth>

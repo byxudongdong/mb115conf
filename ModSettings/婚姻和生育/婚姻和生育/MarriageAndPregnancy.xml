@@ -3,8 +3,8 @@
   <ChildBecomeHuman>false</ChildBecomeHuman>
   <ChildBecomeHumanDetail>3</ChildBecomeHumanDetail>
   <PrisonPregnancyEnable>true</PrisonPregnancyEnable>
-  <PrionPregnancyProbability>0.1</PrionPregnancyProbability>
-  <PrisonOnlyPlayerParty>false</PrisonOnlyPlayerParty>
+  <PrionPregnancyProbability>5</PrionPregnancyProbability>
+  <PrisonOnlyPlayerParty>true</PrisonOnlyPlayerParty>
   <EnablePregnancyModify>true</EnablePregnancyModify>
   <MainHeroProbability>0.5</MainHeroProbability>
   <MainHeroClanProbability>0.5</MainHeroClanProbability>
