@@ -22,7 +22,7 @@
   <enemyHeroDeadApplyFeMale>false</enemyHeroDeadApplyFeMale>
   <heroSwitch>false</heroSwitch>
   <heroSwitchKey>18</heroSwitchKey>
-  <heroDeadChange>true</heroDeadChange>
+  <heroDeadChange>false</heroDeadChange>
   <equipmentProbability>50</equipmentProbability>
   <equipmentEnable>true</equipmentEnable>
   <equipmentExclude>专属, 特殊</equipmentExclude>

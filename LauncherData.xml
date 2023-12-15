@@ -260,7 +260,7 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RaiseYourBanner</Id>
+        <Id>RaiseYourBannerA</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -424,10 +424,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CharacterManager</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Bannerlord.MoreTraitInfo</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -560,15 +556,7 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.AssassinationMod</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RenameAnySettlement</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Cheats</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -580,19 +568,11 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ChooseYourTroops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>MyLittleWarband</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Baijin Troops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bodyguards</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -636,10 +616,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticCombatSoundsV2</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CharacterReload</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -661,6 +637,10 @@
       </UserModData>
       <UserModData>
         <Id>FQ_CZJQ</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PerfectFireArrows</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
