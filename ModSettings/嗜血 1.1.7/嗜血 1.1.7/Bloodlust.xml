@@ -79,7 +79,7 @@
   <decreaseAgeEnable>true</decreaseAgeEnable>
   <enableAgeDecreaseLog>false</enableAgeDecreaseLog>
   <needKillCount>50</needKillCount>
-  <increaseHealthLimit>1</increaseHealthLimit>
+  <increaseHealthLimit>5</increaseHealthLimit>
   <regenerateHealth>1</regenerateHealth>
   <healthIncreaseEnable>true</healthIncreaseEnable>
   <enableHealthLimitLog>true</enableHealthLimitLog>

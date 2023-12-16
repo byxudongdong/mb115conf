@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FluentGlobalSettings>
-  <ChildBecomeHuman>false</ChildBecomeHuman>
+  <ChildBecomeHuman>true</ChildBecomeHuman>
   <ChildBecomeHumanDetail>3</ChildBecomeHumanDetail>
   <PrisonPregnancyEnable>true</PrisonPregnancyEnable>
   <PrionPregnancyProbability>5</PrionPregnancyProbability>

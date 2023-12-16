@@ -133,7 +133,7 @@
       </UserModData>
       <UserModData>
         <Id>ArenaOverhaul</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>LivingParents</Id>
@@ -221,7 +221,7 @@
       </UserModData>
       <UserModData>
         <Id>SpecialLoot</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>WorkshopsCompleted</Id>
@@ -265,7 +265,7 @@
       </UserModData>
       <UserModData>
         <Id>RTSCamera</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RandomBodies</Id>
@@ -384,12 +384,8 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RTSCamera.CommandSystem</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ScatterAroundExpanded</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.MoreTraitInfo</Id>
@@ -425,7 +421,7 @@
       </UserModData>
       <UserModData>
         <Id>WealthyWorkshops</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>OpposeClan</Id>
@@ -533,7 +529,7 @@
       </UserModData>
       <UserModData>
         <Id>ExpandKillLoot</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AttributeAdjustment</Id>
@@ -601,7 +597,7 @@
       </UserModData>
       <UserModData>
         <Id>SmallTalk</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
