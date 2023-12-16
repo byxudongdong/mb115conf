@@ -105,11 +105,11 @@
       </UserModData>
       <UserModData>
         <Id>KaosesCommon</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>KaosesTweaks</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Bannerlord.Diplomacy</Id>
@@ -137,7 +137,7 @@
       </UserModData>
       <UserModData>
         <Id>LivingParents</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>playerclan</Id>
@@ -153,10 +153,6 @@
       </UserModData>
       <UserModData>
         <Id>ButterAchievements</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MoreHeroInteractions</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -181,10 +177,6 @@
       </UserModData>
       <UserModData>
         <Id>MorePrisonerInteractions</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RandomEvents</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -230,10 +222,6 @@
       <UserModData>
         <Id>BattleMiniMap</Id>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>SueMoreSpouses</Id>
-        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>SpecialLoot</Id>
@@ -324,19 +312,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ServeAsSoldier</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ServeAsSoldierFix</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>TroopSort</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>GovernorsHandleIssues</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -536,10 +512,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>PregnancySettings</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Taverns_extended</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -549,14 +521,6 @@
       </UserModData>
       <UserModData>
         <Id>FQ_BarMatchmaker</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PlayerSwitcher</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RenameAnySettlement</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -589,10 +553,6 @@
       </UserModData>
       <UserModData>
         <Id>KingdomStrategiesCommand</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MoreRaiding</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
