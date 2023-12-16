@@ -113,7 +113,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.Diplomacy</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AgricultureEstate</Id>
@@ -206,10 +206,6 @@
       <UserModData>
         <Id>CA_BloodSmoke_Items</Id>
         <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>JoinHouses</Id>
-        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>NeatedsNPCsUpgradeEquipment</Id>
@@ -316,10 +312,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BabyGrowthMod</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Elfskin</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -401,7 +393,7 @@
       </UserModData>
       <UserModData>
         <Id>Bannerlord.MoreTraitInfo</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ArmyArrowCounter</Id>
@@ -421,7 +413,7 @@
       </UserModData>
       <UserModData>
         <Id>PlayerExecuteEdit</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>AIExecutioner</Id>
@@ -513,15 +505,15 @@
       </UserModData>
       <UserModData>
         <Id>Taverns_extended</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Arenas_extended</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>FQ_BarMatchmaker</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>ImprovedGarrisons</Id>
@@ -593,7 +585,7 @@
       </UserModData>
       <UserModData>
         <Id>FQ_JZJQ</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>FQ_CZJQ</Id>

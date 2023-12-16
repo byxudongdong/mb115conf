@@ -21,7 +21,7 @@
   <IgnoreClan>false</IgnoreClan>
   <MinimumMarriageAgeFeMale>18</MinimumMarriageAgeFeMale>
   <MinimumMarriageAgeMale>18</MinimumMarriageAgeMale>
-  <AllowMoreSpouse>false</AllowMoreSpouse>
+  <AllowMoreSpouse>true</AllowMoreSpouse>
   <AllowRelatedMarriage>false</AllowRelatedMarriage>
   <AllowSameGender>false</AllowSameGender>
   <JoinPlayerClan>true</JoinPlayerClan>
