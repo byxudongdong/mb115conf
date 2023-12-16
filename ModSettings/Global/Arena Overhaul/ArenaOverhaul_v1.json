@@ -3,7 +3,7 @@
   "EnableRandomizedBettingOdds": true,
   "TournamentPrizeRerollCondition": 1,
   "EnableTeamTournaments": true,
-  "TeamSizeMax": 3,
+  "TeamSizeMax": 5,
   "TeamsCountMax": 1,
   "TeamOneColor": 83,
   "TeamTwoColor": 119,

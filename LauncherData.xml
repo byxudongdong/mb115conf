@@ -164,10 +164,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>SpecialLoot</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>DeclareWarTogether</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -296,15 +292,15 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RTSCamera</Id>
+        <Id>MolochsDuels</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SpecialLoot</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Fourberie</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AutoResolveRebalanced</Id>
+        <Id>AgricultureEstate</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -312,7 +308,15 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>AgricultureEstate</Id>
+        <Id>Fourberie</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RTSCamera</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AutoResolveRebalanced</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -405,10 +409,6 @@
       </UserModData>
       <UserModData>
         <Id>BannerLib</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MolochsDuels</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -590,6 +590,18 @@
       <UserModData>
         <Id>SmallTalk</Id>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>TalesOfHeroes</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SurrenderTweaks</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ManageFiefs</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1885,6 +1897,12 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>SmallTalk.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ManageFiefs.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
