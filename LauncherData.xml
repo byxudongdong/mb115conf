@@ -112,10 +112,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.Diplomacy</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ArenaOverhaul</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -208,10 +204,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>ArtOfWar</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>NoMarriageOffersForFemaleMembers</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -296,6 +288,22 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>Bannerlord.Diplomacy</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArtOfWar</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RTSCamera</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Fourberie</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>AutoResolveRebalanced</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -336,10 +344,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Fourberie</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>MorePrisonerInteractions</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -361,10 +365,6 @@
       </UserModData>
       <UserModData>
         <Id>WorkshopsCompleted</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RTSCamera</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -540,10 +540,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CharacterReload</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>FQ_CZJQ</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -552,11 +548,11 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>DontWantYourEldestMember</Id>
-        <IsSelected>true</IsSelected>
+        <Id>CharacterReload</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>TalesOfHeroes</Id>
+        <Id>DontWantYourEldestMember</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
