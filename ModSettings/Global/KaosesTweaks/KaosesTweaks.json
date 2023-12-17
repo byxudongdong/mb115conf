@@ -62,7 +62,7 @@
   "PartySizeTweakEnabled": true,
   "PartySizeTweakAIFactor": 1.0,
   "PartySizeMultipliersEnabled": true,
-  "PartySizeBanditMultiplier": 3.0,
+  "PartySizeBanditMultiplier": 5.0,
   "PartySizeVillagerMultiplier": 2.0,
   "PartySizeCarvanMultiplier": 2.0,
   "PartySizeMilitiaMultiplier": 2.0,
