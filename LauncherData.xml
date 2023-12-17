@@ -312,11 +312,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Homesteads</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Separatism</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Separatism</Id>
+        <Id>Homesteads</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -332,15 +332,15 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>AgricultureEstate</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>SpecialLoot</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>SortedIncome</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AgricultureEstate</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
