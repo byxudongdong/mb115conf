@@ -268,10 +268,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bloodlust</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>luoyang</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -312,43 +308,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MolochsDuels</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Homesteads</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>HeroEnhancement</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MorePrisonerInteractions</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>playerclan</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AgricultureEstate</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>SpecialLoot</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>SortedIncome</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Bloodlust</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RTSCamera</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AutoResolveRebalanced</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -356,63 +320,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BannerEditor</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>sy.AdjustableBandits</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AllegianceOverhaul</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ButterAchievements</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RighteousExecutions</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>TodayWeFeast</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>KingdomDestruction</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PartyAIOverhaulCommands</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>WorkshopsCompleted</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>KingdomPoliticsExpanded</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Artems Animations</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DefendYourself</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>mosin_nagant_m91</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PerfectExecutioner</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ImmersiveBattlefields</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -420,31 +328,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Elfskin</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>BannerLib</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RevisitedCastles</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RelentlessSmith</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArmyArrowCounter</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CommandFactionParties</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AIValuesLife</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -452,15 +336,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>FixMOD_majimie</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>DestroyKingdom</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>BetterTroopHUD</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -472,15 +348,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BanditsRogueryXP</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CallHorse</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PeasantRevenge</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -488,19 +356,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Repeating Crossbow TROOP SEIGE VERSION - BM168</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Adoption</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ImprovedGarrisons</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>WeaponGapFix</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -516,18 +372,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>EnhancedBattleTest</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>KingdomStrategiesCommand</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ClanCommanders</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RBM</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -536,19 +380,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>FQ_CZJQ</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>PerfectFireArrows</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CharacterReload</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MarryJoinPlayerClan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -657,6 +489,10 @@
       </UserModData>
       <UserModData>
         <Id>HelmetHairContinuedPlus</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CinematicCombat</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>

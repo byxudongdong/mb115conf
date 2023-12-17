@@ -46,6 +46,6 @@ EnableSingleplayerChatBox=True
 EnableMultiplayerChatBox=True
 ChatBoxSizeX=495
 ChatBoxSizeY=340
-LatestSaveGameName=new123
+LatestSaveGameName=new444
 HideBattleUI=False
 UnitSpawnPrioritization=3
