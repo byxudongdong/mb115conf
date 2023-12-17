@@ -296,11 +296,15 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>AgricultureEstate</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Fourberie</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Fourberie</Id>
+        <Id>UsefullCompanions</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>playerclan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -309,6 +313,10 @@
       </UserModData>
       <UserModData>
         <Id>SortedIncome</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AgricultureEstate</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -332,15 +340,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>playerclan</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>AllegianceOverhaul</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>UsefullCompanions</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
