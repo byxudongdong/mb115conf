@@ -1,4 +1,4 @@
-Language=简体中文
+﻿Language=简体中文
 VoiceLanguage=English
 GyroOverrideForAttackDefend=False
 AttackDirectionControl=1
