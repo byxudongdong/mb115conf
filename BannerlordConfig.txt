@@ -1,4 +1,4 @@
-﻿Language=简体中文
+Language=简体中文
 VoiceLanguage=English
 GyroOverrideForAttackDefend=False
 AttackDirectionControl=1
@@ -28,7 +28,7 @@ StopGameOnFocusLost=False
 ReportExperience=True
 EnableDamageTakenVisuals=True
 EnableVerticalAimCorrection=True
-ZoomSensitivityModifier=0.66666
+ZoomSensitivityModifier=0.6667
 CrosshairType=0
 EnableGenericAvatars=False
 EnableGenericNames=False

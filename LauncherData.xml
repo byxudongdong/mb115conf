@@ -312,6 +312,10 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>UnlockT7-T13</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>RTSCamera</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -320,39 +324,11 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>mosin_nagant_m91</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Aragas.CastleTownWithHorse</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RelentlessSmith</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>OpposeClan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>DestroyKingdom</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MarryAnyoneUpdated</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>UnlockT7-T13</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>CallHorse</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Bannerlord.BannerCraft</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -365,10 +341,6 @@
       </UserModData>
       <UserModData>
         <Id>Baijin Troops</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>AttributeAdjustment</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -440,11 +412,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CustomTroopTree</Id>
+        <Id>RealisticWeather</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticWeather</Id>
+        <Id>CustomTroopTree</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -477,6 +449,14 @@
       </UserModData>
       <UserModData>
         <Id>BetterPikes</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MarryAnyoneUpdated</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DestroyKingdom</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -1845,12 +1825,12 @@
   </DLLCheckData>
   <AutomaticallyCheckForUpdates>false</AutomaticallyCheckForUpdates>
   <FixCommonIssues>false</FixCommonIssues>
-  <CompactModuleList>false</CompactModuleList>
+  <CompactModuleList>true</CompactModuleList>
   <DisableBinaryCheck>false</DisableBinaryCheck>
   <HideRandomImage>true</HideRandomImage>
   <BetaSorting>false</BetaSorting>
   <BigMode>true</BigMode>
-  <EnableDPIScaling>false</EnableDPIScaling>
+  <EnableDPIScaling>true</EnableDPIScaling>
   <DisableCrashHandlerWhenDebuggerIsAttached>false</DisableCrashHandlerWhenDebuggerIsAttached>
   <DisableCatchAutoGenExceptions>false</DisableCatchAutoGenExceptions>
   <UseVanillaCrashHandler>false</UseVanillaCrashHandler>
