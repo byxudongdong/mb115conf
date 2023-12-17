@@ -304,6 +304,30 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>TroopSort</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArenaPack</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Homesteads</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Separatism</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>HeroEnhancement</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MorePrisonerInteractions</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>playerclan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -345,10 +369,6 @@
       </UserModData>
       <UserModData>
         <Id>ButterAchievements</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>MorePrisonerInteractions</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -400,10 +420,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>TroopSort</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Elfskin</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -416,27 +432,11 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Separatism</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RelentlessSmith</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>HeroEnhancement</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ArenaPack</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>ArmyArrowCounter</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>Homesteads</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -536,10 +536,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MarryJoinPlayerClan</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>FQ_CZJQ</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -549,6 +545,10 @@
       </UserModData>
       <UserModData>
         <Id>CharacterReload</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MarryJoinPlayerClan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -600,6 +600,30 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>RealisticWeather</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DeadShot</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CustomTroopTree</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RestoreLordTroops</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArmsDealer</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>DismembermentPlus</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>ManageFiefs</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -624,20 +648,8 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticWeather</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>HelmetHairContinuedPlus</Id>
         <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DismembermentPlus</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DeadShot</Id>
-        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BetterTime</Id>
@@ -645,14 +657,6 @@
       </UserModData>
       <UserModData>
         <Id>BetterPikes</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CustomTroopTree</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>RestoreLordTroops</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>

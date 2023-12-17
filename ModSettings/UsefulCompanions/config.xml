@@ -6,11 +6,12 @@
   <caravanXP_to_player value="False">有利可图的商队为玩家提供一些交易经验. (True / False)</caravanXP_to_player>
   <remove_auto_give_troops value="False">防止同伴部队给盟军驻军。 (True / False)</remove_auto_give_troops>
   <disable_companion_complains value="False">禁用同伴和流浪者的抱怨 (True / False)</disable_companion_complains>
+  <disable_party_rebuild value="False">Disable auto-rebuilding party feature? (True / False)</disable_party_rebuild>
   <UC_inventory_model value="True">UC 启用背包容量模型 (True / False)</UC_inventory_model>
   <UC_party_size_model value="True">UC 启用部队大小模块 (True / False)</UC_party_size_model>
   <UC_clan_tier_model value="False">UC 更变家族 (True / False)</UC_clan_tier_model>
   <clan_member_limit_boost value="0">玩家家族获得的额外成员</clan_member_limit_boost>
-  <UC_prisoner_behavior value="True">Use UC prisoner escape chance calculation and features.} (True / False)</UC_prisoner_behavior>
+  <clan_party_limit_boost value="0">How many bonus parties for player clan.</clan_party_limit_boost>
   <UC_hero_creation value="True">使用自定义英雄创建模块 (True / False)</UC_hero_creation>
   <UC_prosperity_model value="True">UC 更变定居点繁荣度 (True / False)</UC_prosperity_model>
 </properties>
