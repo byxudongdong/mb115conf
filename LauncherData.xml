@@ -609,7 +609,7 @@
       </UserModData>
       <UserModData>
         <Id>CustomTroopTree</Id>
-        <IsSelected>true</IsSelected>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RealisticWeather</Id>
