@@ -29,7 +29,7 @@
   <equipmentMount>false</equipmentMount>
   <equipmentThrowingByEmpty>true</equipmentThrowingByEmpty>
   <onlyAddItem>false</onlyAddItem>
-  <increaseGold>100</increaseGold>
+  <increaseGold>200</increaseGold>
   <increaseGoldEnable>true</increaseGoldEnable>
   <enableGoldLog>false</enableGoldLog>
   <increaseMountHealth>5</increaseMountHealth>
@@ -50,16 +50,16 @@
   <enableRangeWeaponLog>true</enableRangeWeaponLog>
   <increaseAttribute>100</increaseAttribute>
   <increaseAttributeEnable>true</increaseAttributeEnable>
-  <increaseAttributeAmount>2</increaseAttributeAmount>
+  <increaseAttributeAmount>3</increaseAttributeAmount>
   <increaseFocus>30</increaseFocus>
   <attributeLimit>30</attributeLimit>
   <focusLimit>25</focusLimit>
-  <skillLimit>600</skillLimit>
+  <skillLimit>666</skillLimit>
   <increaseSkillLearningRate>30</increaseSkillLearningRate>
   <autoAllocateAttributeFocus>true</autoAllocateAttributeFocus>
   <autoAllocateRate>70</autoAllocateRate>
   <enableTwoPerk>true</enableTwoPerk>
-  <enableAttributeLog>false</enableAttributeLog>
+  <enableAttributeLog>true</enableAttributeLog>
   <speedEnable>false</speedEnable>
   <walkSpeedNumber>30</walkSpeedNumber>
   <mountSpeedNumber>30</mountSpeedNumber>

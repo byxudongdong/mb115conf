@@ -292,10 +292,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>MolochsDuels</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Fourberie</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -314,6 +310,10 @@
       <UserModData>
         <Id>Separatism</Id>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MolochsDuels</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Homesteads</Id>
@@ -456,6 +456,10 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>DestroyKingdom</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>BetterTroopHUD</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -521,10 +525,6 @@
       </UserModData>
       <UserModData>
         <Id>ClanCommanders</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>456</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -600,7 +600,7 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticWeather</Id>
+        <Id>DismembermentPlus</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -609,6 +609,10 @@
       </UserModData>
       <UserModData>
         <Id>CustomTroopTree</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticWeather</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -617,10 +621,6 @@
       </UserModData>
       <UserModData>
         <Id>ArmsDealer</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>DismembermentPlus</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -644,20 +644,20 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CharacterManager</Id>
+        <Id>BetterPikes</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>HelmetHairContinuedPlus</Id>
-        <IsSelected>true</IsSelected>
+        <Id>CharacterManager</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BetterTime</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterPikes</Id>
-        <IsSelected>false</IsSelected>
+        <Id>HelmetHairContinuedPlus</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
