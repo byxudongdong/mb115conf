@@ -28,7 +28,7 @@
   <equipmentExclude>专属, 特殊</equipmentExclude>
   <equipmentMount>false</equipmentMount>
   <equipmentThrowingByEmpty>true</equipmentThrowingByEmpty>
-  <onlyAddItem>false</onlyAddItem>
+  <onlyAddItem>true</onlyAddItem>
   <increaseGold>200</increaseGold>
   <increaseGoldEnable>true</increaseGoldEnable>
   <enableGoldLog>false</enableGoldLog>
