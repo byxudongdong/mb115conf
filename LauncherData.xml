@@ -160,10 +160,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterHorses</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>Vexillum</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -380,6 +376,10 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>BetterHorses</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>CallHorse</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -501,6 +501,14 @@
       </UserModData>
       <UserModData>
         <Id>GovernorsHandleIssues</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Ancient Civilization</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Ancient Civilization CNs</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
