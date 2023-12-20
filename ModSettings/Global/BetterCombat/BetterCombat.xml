@@ -31,9 +31,9 @@
   <HealingLimit>false</HealingLimit>
   <FleeingChance>1</FleeingChance>
   <PerventFleeing>false</PerventFleeing>
-  <CutThroughChance>0.7</CutThroughChance>
-  <CutThroughPlayerOnly>false</CutThroughPlayerOnly>
-  <CutThroughActive>false</CutThroughActive>
+  <CutThroughChance>0.8</CutThroughChance>
+  <CutThroughPlayerOnly>true</CutThroughPlayerOnly>
+  <CutThroughActive>true</CutThroughActive>
   <MutliHitOneHanded>true</MutliHitOneHanded>
   <MutliHitTwoHanded>true</MutliHitTwoHanded>
   <PreventKnockdown>false</PreventKnockdown>

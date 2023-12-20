@@ -17,7 +17,7 @@
   <doppelgangerPlayerNeedKill>300</doppelgangerPlayerNeedKill>
   <doppelgangerNPCNeedKill>100</doppelgangerNPCNeedKill>
   <enemyHeroDeadEnable>true</enemyHeroDeadEnable>
-  <enemyHeroDeadNeedKill>30</enemyHeroDeadNeedKill>
+  <enemyHeroDeadNeedKill>50</enemyHeroDeadNeedKill>
   <enemyHeroDeadApplyMale>true</enemyHeroDeadApplyMale>
   <enemyHeroDeadApplyFeMale>false</enemyHeroDeadApplyFeMale>
   <heroSwitch>false</heroSwitch>
@@ -42,8 +42,8 @@
   <renownIncrease>2</renownIncrease>
   <EnableInfluenceIncreaseLog>false</EnableInfluenceIncreaseLog>
   <increaseAmmoEnable>true</increaseAmmoEnable>
-  <increaseArrow>10</increaseArrow>
-  <increaseBolt>10</increaseBolt>
+  <increaseArrow>20</increaseArrow>
+  <increaseBolt>20</increaseBolt>
   <increaseThrowing>10</increaseThrowing>
   <increaseManyShooting>100</increaseManyShooting>
   <closeManyShooting>false</closeManyShooting>
@@ -66,14 +66,14 @@
   <swingSpeedNumber>50</swingSpeedNumber>
   <thrustSpeedNumber>50</thrustSpeedNumber>
   <partyStatus>true</partyStatus>
-  <partyHealing>50</partyHealing>
-  <partySpeed>50</partySpeed>
-  <partyView>50</partyView>
+  <partyHealing>100</partyHealing>
+  <partySpeed>100</partySpeed>
+  <partyView>100</partyView>
   <troopEnable>true</troopEnable>
-  <troopNumber>30</troopNumber>
-  <companionNumber>30</companionNumber>
-  <prisonerNumber>30</prisonerNumber>
-  <troopTierNumber>50</troopTierNumber>
+  <troopNumber>50</troopNumber>
+  <companionNumber>100</companionNumber>
+  <prisonerNumber>50</prisonerNumber>
+  <troopTierNumber>200</troopTierNumber>
   <decreaseAge>1</decreaseAge>
   <minAge>18</minAge>
   <decreaseAgeEnable>true</decreaseAgeEnable>
