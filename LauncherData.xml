@@ -52,15 +52,11 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>NobleTitlesPlus</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>WarlordsBattlefield</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>T7TroopUnlocker</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>UnlockT7-T13</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -68,11 +64,15 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>GT_CarbonBody_Races_Elf</Id>
+        <Id>NobleTitlesPlus</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>GT_CarbonBody_Outfits</Id>
+        <Id>kult_of_the_kallipygos_2</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>kult_of_the_kallipygos_2 CNs</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -80,11 +80,19 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>thiccc_elven_waifus</Id>
+        <Id>OpenSourceWeaponry</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>kult_of_the_kallipygos_2</Id>
+        <Id>OpenSourceArmory</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>OpenSourceSaddlery</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>WarlordsBattlefield</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
@@ -304,10 +312,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>UnlockT7-T13</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>DontWantYourEldestMember</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -364,6 +368,10 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>ManageFiefs</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>RTSCamera</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -404,10 +412,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>RealisticWeather</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>PerfectFireArrows</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -421,10 +425,6 @@
       </UserModData>
       <UserModData>
         <Id>ArmsDealer</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>ManageFiefs</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -466,6 +466,10 @@
       <UserModData>
         <Id>FQ_LAONONG</Id>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>RealisticWeather</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>BetterTime</Id>
@@ -510,6 +514,22 @@
       <UserModData>
         <Id>Ancient Civilization CNs</Id>
         <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ServeAsSoldier</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MissionDuel</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AgricultureEstate</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Horses</Id>
+        <IsSelected>false</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1865,6 +1885,18 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>FQ_Class6.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MissionDuel.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Horses.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
