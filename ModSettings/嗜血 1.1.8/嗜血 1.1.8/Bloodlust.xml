@@ -29,9 +29,9 @@
   <equipmentMount>false</equipmentMount>
   <equipmentThrowingByEmpty>true</equipmentThrowingByEmpty>
   <onlyAddItem>true</onlyAddItem>
-  <increaseGold>200</increaseGold>
+  <increaseGold>500</increaseGold>
   <increaseGoldEnable>true</increaseGoldEnable>
-  <enableGoldLog>false</enableGoldLog>
+  <enableGoldLog>true</enableGoldLog>
   <increaseMountHealth>5</increaseMountHealth>
   <regenerateMountHealth>1</regenerateMountHealth>
   <regenerateMountChargeDamage>30</regenerateMountChargeDamage>
