@@ -528,6 +528,14 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>UnlockPartyTemplateLimit</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CharacterReload</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>Horses</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -1897,6 +1905,12 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>Horses.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>UnlockPartyTemplateLimit.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
