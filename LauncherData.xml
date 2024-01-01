@@ -308,10 +308,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bloodlust</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>DontWantYourEldestMember</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -369,6 +365,34 @@
       </UserModData>
       <UserModData>
         <Id>ManageFiefs</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BannerColorPersistence</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterSkills</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterAttributes</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bloodlust</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterHorses</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PerfectFireArrows</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CallHorse</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -376,19 +400,7 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BannerColorPersistence</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>OpposeClan</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>BetterHorses</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CallHorse</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -405,14 +417,6 @@
       </UserModData>
       <UserModData>
         <Id>RBM</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>BetterSkills</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PerfectFireArrows</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
@@ -440,10 +444,6 @@
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Bannerlord.RemoveFogOfWar</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>BetterPikes</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -466,6 +466,18 @@
       <UserModData>
         <Id>FQ_LAONONG</Id>
         <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CharacterReload</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterHUD</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.RemoveFogOfWar</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>RealisticWeather</Id>
@@ -532,12 +544,24 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>CharacterReload</Id>
-        <IsSelected>false</IsSelected>
+        <Id>Horses</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>Horses</Id>
-        <IsSelected>false</IsSelected>
+        <Id>ButterAchievements</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MyRTSCamera</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>HistoricalBannerIcons</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AIBannerIcons</Id>
+        <IsSelected>true</IsSelected>
       </UserModData>
     </ModDatas>
   </SingleplayerData>
@@ -1911,6 +1935,18 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>UnlockPartyTemplateLimit.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BetterAttributes.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MyRTSCamera.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>
