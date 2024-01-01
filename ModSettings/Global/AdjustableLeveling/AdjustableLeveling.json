@@ -67,7 +67,7 @@
   "UseFasterLevelingCurve": false,
   "MaxCharacterLevel": 81,
   "LevelXPModifier": 1.0,
-  "LevelsPerAttributePoint": 2,
+  "LevelsPerAttributePoint": 1,
   "FocusPointsPerLevel": 4,
   "MaxAttribute": 20,
   "MaxFocusPerSkill": 10,

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MCMSettings>
   <CampaignHealthRegenMultiplier>2</CampaignHealthRegenMultiplier>
-  <TroopHealthAthletics>0.5</TroopHealthAthletics>
+  <TroopHealthAthletics>0.3</TroopHealthAthletics>
   <TroopPercentHealthPerLevel>false</TroopPercentHealthPerLevel>
   <TroopPercent>0.01</TroopPercent>
   <TroopFlatAmount>3</TroopFlatAmount>

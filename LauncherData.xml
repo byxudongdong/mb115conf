@@ -372,6 +372,18 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
+        <Id>BetterHorses</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PerfectFireArrows</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>OpposeClan</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
         <Id>BetterSkills</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
@@ -384,23 +396,7 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterHorses</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>PerfectFireArrows</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>CallHorse</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>RTSCamera</Id>
-        <IsSelected>false</IsSelected>
-      </UserModData>
-      <UserModData>
-        <Id>OpposeClan</Id>
         <IsSelected>false</IsSelected>
       </UserModData>
       <UserModData>

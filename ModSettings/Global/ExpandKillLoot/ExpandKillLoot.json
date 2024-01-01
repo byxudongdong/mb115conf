@@ -1,7 +1,7 @@
 {
-  "KillLootIsDisplayHud": true,
+  "KillLootIsDisplayHud": false,
   "KillLootIsDisplayGlod": true,
-  "KillLootMaxCount": 309,
+  "KillLootMaxCount": 186,
   "CloseOriginalKillLoot": false,
   "KillLootUnitRate": 0,
   "KillLootUnitIsDisplayMsg": false,

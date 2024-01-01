@@ -1,0 +1,14 @@
+{
+  "SendCrashReport": false,
+  "DaytimeAttack": true,
+  "SendTroops": true,
+  "SendTroopsWhenWounded": true,
+  "HideoutBattleMaxTroopCount": 20,
+  "MinTroopCountInHIdeout": 20,
+  "TroopsSelect": 0,
+  "PartyAttack": true,
+  "PartyType": 0,
+  "ProtectionType": 0,
+  "MaxHideoutDistanceToSettlement": 30,
+  "FindHideout": true
+}
