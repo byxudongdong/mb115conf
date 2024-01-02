@@ -264,10 +264,6 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>sy.AdjustableLeveling</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>luoyang</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
@@ -372,15 +368,19 @@
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
-        <Id>BetterHorses</Id>
-        <IsSelected>true</IsSelected>
-      </UserModData>
-      <UserModData>
         <Id>PerfectFireArrows</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>OpposeClan</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterHorses</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>sy.AdjustableLeveling</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
