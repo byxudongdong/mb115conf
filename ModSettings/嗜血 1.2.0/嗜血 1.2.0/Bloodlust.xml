@@ -17,7 +17,7 @@
   <doppelgangerPlayerNeedKill>300</doppelgangerPlayerNeedKill>
   <doppelgangerNPCNeedKill>100</doppelgangerNPCNeedKill>
   <enemyHeroDeadEnable>true</enemyHeroDeadEnable>
-  <enemyHeroDeadNeedKill>50</enemyHeroDeadNeedKill>
+  <enemyHeroDeadNeedKill>150</enemyHeroDeadNeedKill>
   <enemyHeroDeadApplyMale>true</enemyHeroDeadApplyMale>
   <enemyHeroDeadApplyFeMale>false</enemyHeroDeadApplyFeMale>
   <heroSwitch>false</heroSwitch>
@@ -36,16 +36,17 @@
   <regenerateMountHealth>1</regenerateMountHealth>
   <regenerateMountChargeDamage>30</regenerateMountChargeDamage>
   <increaseMountEnable>true</increaseMountEnable>
-  <enableMountHealthLimitLog>false</enableMountHealthLimitLog>
+  <enableMountHealthLimitLog>true</enableMountHealthLimitLog>
   <influenceIncrease>2</influenceIncrease>
   <increaseInfluenceEnable>false</increaseInfluenceEnable>
   <renownIncrease>2</renownIncrease>
   <EnableInfluenceIncreaseLog>false</EnableInfluenceIncreaseLog>
   <increaseAmmoEnable>true</increaseAmmoEnable>
-  <increaseArrow>20</increaseArrow>
-  <increaseBolt>20</increaseBolt>
+  <increaseArrow>30</increaseArrow>
+  <increaseBolt>30</increaseBolt>
   <increaseThrowing>10</increaseThrowing>
-  <increaseManyShooting>100</increaseManyShooting>
+  <increaseManyShooting>300</increaseManyShooting>
+  <ManyShootingLimit>30</ManyShootingLimit>
   <closeManyShooting>false</closeManyShooting>
   <enableRangeWeaponLog>true</enableRangeWeaponLog>
   <increaseAttribute>100</increaseAttribute>
@@ -55,25 +56,25 @@
   <attributeLimit>30</attributeLimit>
   <focusLimit>25</focusLimit>
   <skillLimit>666</skillLimit>
-  <increaseSkillLearningRate>30</increaseSkillLearningRate>
+  <increaseSkillLearningRate>300</increaseSkillLearningRate>
   <autoAllocateAttributeFocus>true</autoAllocateAttributeFocus>
-  <autoAllocateRate>70</autoAllocateRate>
+  <autoAllocateRate>80</autoAllocateRate>
   <enableTwoPerk>true</enableTwoPerk>
   <enableAttributeLog>true</enableAttributeLog>
-  <speedEnable>false</speedEnable>
-  <walkSpeedNumber>30</walkSpeedNumber>
-  <mountSpeedNumber>30</mountSpeedNumber>
-  <swingSpeedNumber>50</swingSpeedNumber>
-  <thrustSpeedNumber>50</thrustSpeedNumber>
+  <speedEnable>true</speedEnable>
+  <walkSpeedNumber>300</walkSpeedNumber>
+  <mountSpeedNumber>300</mountSpeedNumber>
+  <swingSpeedNumber>250</swingSpeedNumber>
+  <thrustSpeedNumber>250</thrustSpeedNumber>
   <partyStatus>true</partyStatus>
-  <partyHealing>100</partyHealing>
-  <partySpeed>100</partySpeed>
-  <partyView>100</partyView>
+  <partyHealing>250</partyHealing>
+  <partySpeed>250</partySpeed>
+  <partyView>250</partyView>
   <troopEnable>true</troopEnable>
   <troopNumber>50</troopNumber>
-  <companionNumber>100</companionNumber>
+  <companionNumber>50</companionNumber>
   <prisonerNumber>50</prisonerNumber>
-  <troopTierNumber>200</troopTierNumber>
+  <troopTierNumber>150</troopTierNumber>
   <decreaseAge>1</decreaseAge>
   <minAge>18</minAge>
   <decreaseAgeEnable>true</decreaseAgeEnable>
@@ -84,4 +85,6 @@
   <healthIncreaseEnable>true</healthIncreaseEnable>
   <enableHealthLimitLog>true</enableHealthLimitLog>
   <firstRun>true</firstRun>
+  <EnemyHeroStrong>true</EnemyHeroStrong>
+  <applicableHeroes>3</applicableHeroes>
 </FluentGlobalSettings>

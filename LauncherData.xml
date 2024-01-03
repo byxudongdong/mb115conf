@@ -559,6 +559,22 @@
         <Id>AIBannerIcons</Id>
         <IsSelected>true</IsSelected>
       </UserModData>
+      <UserModData>
+        <Id>XXexpand4.0.3(1.2.7-1.2.8)</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>XXexpandHairsAndSkin_A</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>XXexpandHairsAndSkin_B</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>XXexpandMap4.0.0(1.2.7-1.2.8)</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
     </ModDatas>
   </SingleplayerData>
   <MultiplayerData>
@@ -1943,6 +1959,30 @@
       </DLLCheckData>
       <DLLCheckData>
         <DLLName>MyRTSCamera.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>XXexpand.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Children Are No Longer Invulnerable.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>FlexVersionFix.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>XXexpandMap.dll</DLLName>
         <DLLVerifyInformation />
         <LatestSizeInBytes>0</LatestSizeInBytes>
         <IsDangerous>true</IsDangerous>

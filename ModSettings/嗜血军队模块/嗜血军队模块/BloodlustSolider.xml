@@ -4,7 +4,8 @@
   <soliderCombatEnable>true</soliderCombatEnable>
   <FriendlyPromotion>false</FriendlyPromotion>
   <EnemyPromotion>false</EnemyPromotion>
-  <PromotionProbability>0</PromotionProbability>
+  <FriendlyPromotionProbability>0</FriendlyPromotionProbability>
+  <EnemyPromotionProbability>0</EnemyPromotionProbability>
   <PromotionLevel>0</PromotionLevel>
   <soliderPromotionEnable>false</soliderPromotionEnable>
   <soliderHealthLimit>1</soliderHealthLimit>
@@ -12,6 +13,7 @@
   <soliderSkill>1</soliderSkill>
   <soliderRangedWeaponLimit>1</soliderRangedWeaponLimit>
   <soliderManyShoot>200</soliderManyShoot>
+  <soliderManyShootLimit>1</soliderManyShootLimit>
   <applyFriendlySolider>false</applyFriendlySolider>
   <applyEnemySolider>false</applyEnemySolider>
   <soliderHealthIncreaseEnable>false</soliderHealthIncreaseEnable>

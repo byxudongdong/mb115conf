@@ -46,6 +46,6 @@ EnableSingleplayerChatBox=True
 EnableMultiplayerChatBox=True
 ChatBoxSizeX=495
 ChatBoxSizeY=340
-LatestSaveGameName=saveauto1
+LatestSaveGameName=nvbing5
 HideBattleUI=False
 UnitSpawnPrioritization=3
